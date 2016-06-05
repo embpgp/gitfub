@@ -13369,3 +13369,9 @@ To git@github.com:embpgp/gitfub.git
    1441913..dc36386  master -> master
 **********successful********************************************
 *********Begin the (148) times commit*****************************
+[master aff5167] the 148 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   dc36386..aff5167  master -> master
+**********successful********************************************
+*********Begin the (149) times commit*****************************
