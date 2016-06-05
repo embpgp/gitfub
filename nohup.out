@@ -6697,3 +6697,9 @@ To git@github.com:embpgp/gitfub.git
    32b41b6..8226653  master -> master
 **********successful********************************************
 *********Begin the (76) times commit*****************************
+[master dea1bc2] the 76 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   8226653..dea1bc2  master -> master
+**********successful********************************************
+*********Begin the (77) times commit*****************************
