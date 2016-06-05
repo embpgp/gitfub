@@ -17,7 +17,7 @@ value = 0
 while true
 do
 commit $value
-$((value++))
+$((value += 1))
 if [ value == 5 ]
 then
 value = 0
