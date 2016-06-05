@@ -7369,3 +7369,9 @@ To git@github.com:embpgp/gitfub.git
    fb2f388..5ddab5f  master -> master
 **********successful********************************************
 *********Begin the (188) times commit*****************************
+[master d201242] the 188 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   5ddab5f..d201242  master -> master
+**********successful********************************************
+*********Begin the (189) times commit*****************************
