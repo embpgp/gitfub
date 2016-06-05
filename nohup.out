@@ -9565,3 +9565,9 @@ To git@github.com:embpgp/gitfub.git
    0478ae3..c442de3  master -> master
 **********successful********************************************
 *********Begin the (34) times commit*****************************
+[master 1def61e] the 34 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   c442de3..1def61e  master -> master
+**********successful********************************************
+*********Begin the (35) times commit*****************************
