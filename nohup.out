@@ -3715,3 +3715,9 @@ To git@github.com:embpgp/gitfub.git
    db431e6..8622c0c  master -> master
 **********successful********************************************
 *********Begin the (99) times commit*****************************
+[master 32f820c] the 99 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   8622c0c..32f820c  master -> master
+**********successful********************************************
+*********Begin the (100) times commit*****************************
