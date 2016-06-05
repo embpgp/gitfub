@@ -97,3 +97,9 @@ To git@github.com:embpgp/gitfub.git
    d3fac1f..f7694d4  master -> master
 **********successful********************************************
 *********Begin the (16) times commit*****************************
+[master f304b7a] the 16 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   f7694d4..f304b7a  master -> master
+**********successful********************************************
+*********Begin the (17) times commit*****************************
