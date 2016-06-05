@@ -199,3 +199,9 @@ To git@github.com:embpgp/gitfub.git
    100e103..35a1df6  master -> master
 **********successful********************************************
 *********Begin the (33) times commit*****************************
+[master bf25a8f] the 33 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   35a1df6..bf25a8f  master -> master
+**********successful********************************************
+*********Begin the (34) times commit*****************************
