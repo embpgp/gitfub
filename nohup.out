@@ -6679,3 +6679,9 @@ To git@github.com:embpgp/gitfub.git
    cd40191..b265b0d  master -> master
 **********successful********************************************
 *********Begin the (73) times commit*****************************
+[master 8a4ad9c] the 73 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   b265b0d..8a4ad9c  master -> master
+**********successful********************************************
+*********Begin the (74) times commit*****************************
