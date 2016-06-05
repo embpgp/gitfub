@@ -15649,3 +15649,9 @@ To git@github.com:embpgp/gitfub.git
    3e549f5..5b4fd02  master -> master
 **********successful********************************************
 *********Begin the (8) times commit*****************************
+[master cee93de] the 8 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   5b4fd02..cee93de  master -> master
+**********successful********************************************
+*********Begin the (9) times commit*****************************
