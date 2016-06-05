@@ -15673,3 +15673,9 @@ To git@github.com:embpgp/gitfub.git
    952735a..8ceac54  master -> master
 **********successful********************************************
 *********Begin the (12) times commit*****************************
+[master 5003493] the 12 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   8ceac54..5003493  master -> master
+**********successful********************************************
+*********Begin the (13) times commit*****************************
