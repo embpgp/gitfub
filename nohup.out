@@ -907,3 +907,9 @@ To git@github.com:embpgp/gitfub.git
    dcd0e7a..1a2cb03  master -> master
 **********successful********************************************
 *********Begin the (151) times commit*****************************
+[master 158e615] the 151 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   1a2cb03..158e615  master -> master
+**********successful********************************************
+*********Begin the (152) times commit*****************************
