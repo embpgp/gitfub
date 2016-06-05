@@ -14671,3 +14671,9 @@ To git@github.com:embpgp/gitfub.git
    ea60a01..4b4e2f4  master -> master
 **********successful********************************************
 *********Begin the (365) times commit*****************************
+[master f7404ea] the 365 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   4b4e2f4..f7404ea  master -> master
+**********successful********************************************
+*********Begin the (366) times commit*****************************
