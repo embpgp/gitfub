@@ -1771,3 +1771,9 @@ To git@github.com:embpgp/gitfub.git
    e64cc46..bcf651e  master -> master
 **********successful********************************************
 *********Begin the (295) times commit*****************************
+[master b93865a] the 295 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   bcf651e..b93865a  master -> master
+**********successful********************************************
+*********Begin the (296) times commit*****************************
