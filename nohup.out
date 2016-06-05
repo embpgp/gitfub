@@ -68,3 +68,9 @@ To git@github.com:embpgp/gitfub.git
    2b08da2..3652830  master -> master
 **********successful********************************************
 *********Begin the (11) times commit*****************************
+[master f5ab018] the 11 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   3652830..f5ab018  master -> master
+**********successful********************************************
+*********Begin the (12) times commit*****************************
