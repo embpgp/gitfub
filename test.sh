@@ -1,9 +1,9 @@
 #!/bin/sh
 
 commit(){
-	git status
+	#git status
 	sleep 1
-	echo "*********开始提交**************"
+	echo "*********开始提交第($1)次提交*****************************"
 	#git pull
 	sleep 1
 	git add *
@@ -11,7 +11,7 @@ commit(){
 	git commit -m "the $1 times commit"
 	sleep 1
 	git push origin master
-	echo "**********成功提交**************"
+	echo "**********成功提交***************************************"
 }
 
 value=0
