@@ -5665,3 +5665,9 @@ To git@github.com:embpgp/gitfub.git
    cd1ad65..65fdfa0  master -> master
 **********successful********************************************
 *********Begin the (424) times commit*****************************
+[master 5f4dc07] the 424 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   65fdfa0..5f4dc07  master -> master
+**********successful********************************************
+*********Begin the (425) times commit*****************************
