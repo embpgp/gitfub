@@ -10537,3 +10537,9 @@ To git@github.com:embpgp/gitfub.git
    ca413fc..ca40e7b  master -> master
 **********successful********************************************
 *********Begin the (196) times commit*****************************
+[master a770fe7] the 196 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   ca40e7b..a770fe7  master -> master
+**********successful********************************************
+*********Begin the (197) times commit*****************************
