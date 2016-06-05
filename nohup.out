@@ -5083,3 +5083,9 @@ To git@github.com:embpgp/gitfub.git
    04104c5..95aa192  master -> master
 **********successful********************************************
 *********Begin the (327) times commit*****************************
+[master f256aa0] the 327 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   95aa192..f256aa0  master -> master
+**********successful********************************************
+*********Begin the (328) times commit*****************************
