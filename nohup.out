@@ -10861,3 +10861,9 @@ To git@github.com:embpgp/gitfub.git
    7834fd4..dc08cb4  master -> master
 **********successful********************************************
 *********Begin the (250) times commit*****************************
+[master 46dc52d] the 250 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   dc08cb4..46dc52d  master -> master
+**********successful********************************************
+*********Begin the (251) times commit*****************************
