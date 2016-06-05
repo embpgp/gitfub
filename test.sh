@@ -22,6 +22,7 @@ commit(){
 	echo "**********successful********************************************"
 }
 
+nohap.out="./nohap.out"
 value=0
 while true
 do
@@ -31,6 +32,10 @@ echo $value > ./fUKK.txt #change the file
 if [ $value -eq $1 ]
 then
 value=0
+if [ -f $nohap.out ]
+then
+echo > $nohap.out
+fi
 fi
 sleep 5
 done
