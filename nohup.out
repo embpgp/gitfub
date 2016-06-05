@@ -301,3 +301,9 @@ To git@github.com:embpgp/gitfub.git
    2d71896..586ea22  master -> master
 **********successful********************************************
 *********Begin the (50) times commit*****************************
+[master 0aaf732] the 50 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   586ea22..0aaf732  master -> master
+**********successful********************************************
+*********Begin the (51) times commit*****************************
