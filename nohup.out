@@ -13225,3 +13225,9 @@ To git@github.com:embpgp/gitfub.git
    bd00372..5d86b07  master -> master
 **********successful********************************************
 *********Begin the (124) times commit*****************************
+[master dfc750a] the 124 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   5d86b07..dfc750a  master -> master
+**********successful********************************************
+*********Begin the (125) times commit*****************************
