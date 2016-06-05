@@ -3133,3 +3133,9 @@ To git@github.com:embpgp/gitfub.git
    2ce98a2..e378af2  master -> master
 **********successful********************************************
 *********Begin the (2) times commit*****************************
+[master 027fc58] the 2 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   e378af2..027fc58  master -> master
+**********successful********************************************
+*********Begin the (3) times commit*****************************
