@@ -15655,3 +15655,9 @@ To git@github.com:embpgp/gitfub.git
    5b4fd02..cee93de  master -> master
 **********successful********************************************
 *********Begin the (9) times commit*****************************
+[master 7e9ff68] the 9 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   cee93de..7e9ff68  master -> master
+**********successful********************************************
+*********Begin the (10) times commit*****************************
