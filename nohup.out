@@ -13,3 +13,9 @@ To git@github.com:embpgp/gitfub.git
    a1f7858..da61015  master -> master
 **********successful********************************************
 *********Begin the (2) times commit*****************************
+[master c87aae6] the 2 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   da61015..c87aae6  master -> master
+**********successful********************************************
+*********Begin the (3) times commit*****************************
