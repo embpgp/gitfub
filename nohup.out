@@ -86,3 +86,9 @@ To git@github.com:embpgp/gitfub.git
    35bd627..359b1b4  master -> master
 **********successful********************************************
 *********Begin the (14) times commit*****************************
+[master 8402c39] the 14 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   359b1b4..8402c39  master -> master
+**********successful********************************************
+*********Begin the (15) times commit*****************************
