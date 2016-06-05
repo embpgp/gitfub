@@ -241,3 +241,9 @@ To git@github.com:embpgp/gitfub.git
    253023e..c66bfaa  master -> master
 **********successful********************************************
 *********Begin the (40) times commit*****************************
+[master d62001a] the 40 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   c66bfaa..d62001a  master -> master
+**********successful********************************************
+*********Begin the (41) times commit*****************************
