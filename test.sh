@@ -18,7 +18,8 @@ while true
 do
 commit $value
 $((value += 1))
-if [ value == 5 ]
+echo $value >> ./fUKK.txt
+if [ $value == 5 ]
 then
 value = 0
 fi
