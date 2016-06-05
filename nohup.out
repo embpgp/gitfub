@@ -1,3 +1,10 @@
 
 ./test.sh: 25: ./test.sh: nohap.out=./nohap.out: not found
 *********Begin the (0) times commit*****************************
+[master e21837b] the 0 times commit
+ 3 files changed, 9 insertions(+), 15832 deletions(-)
+ rewrite nohup.out (99%)
+To git@github.com:embpgp/gitfub.git
+   4cab720..e21837b  master -> master
+**********successful********************************************
+*********Begin the (1) times commit*****************************
