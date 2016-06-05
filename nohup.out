@@ -3181,3 +3181,9 @@ To git@github.com:embpgp/gitfub.git
    f14e011..70db814  master -> master
 **********successful********************************************
 *********Begin the (10) times commit*****************************
+[master 4ffe332] the 10 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   70db814..4ffe332  master -> master
+**********successful********************************************
+*********Begin the (11) times commit*****************************
