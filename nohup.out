@@ -9529,3 +9529,9 @@ To git@github.com:embpgp/gitfub.git
    c004886..cafd423  master -> master
 **********successful********************************************
 *********Begin the (28) times commit*****************************
+[master c45ad50] the 28 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   cafd423..c45ad50  master -> master
+**********successful********************************************
+*********Begin the (29) times commit*****************************
