@@ -3481,3 +3481,9 @@ To git@github.com:embpgp/gitfub.git
    850efb6..f389051  master -> master
 **********successful********************************************
 *********Begin the (60) times commit*****************************
+[master c012a16] the 60 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   f389051..c012a16  master -> master
+**********successful********************************************
+*********Begin the (61) times commit*****************************
