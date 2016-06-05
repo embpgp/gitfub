@@ -3895,3 +3895,9 @@ To git@github.com:embpgp/gitfub.git
    e1cb425..5d71202  master -> master
 **********successful********************************************
 *********Begin the (129) times commit*****************************
+[master cb5926b] the 129 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   5d71202..cb5926b  master -> master
+**********successful********************************************
+*********Begin the (130) times commit*****************************
