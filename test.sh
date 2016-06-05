@@ -13,14 +13,14 @@ commit(){
 	echo "成功提交"
 }
 
-value = 0
+value=0
 while true
 do
 commit $value
-value = `expr $value + 1`
-echo $value >> ./fUKK.txt
+value=`expr $value + 1`
+echo $value > ./fUKK.txt
 if [ $value -eq 5 ]
 then
-value = 0
+value=0
 fi
 done
