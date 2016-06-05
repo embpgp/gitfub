@@ -8,3 +8,9 @@ To git@github.com:embpgp/gitfub.git
    4cab720..e21837b  master -> master
 **********successful********************************************
 *********Begin the (1) times commit*****************************
+[master dc0a5bb] the 1 times commit
+ 2 files changed, 8 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   e21837b..dc0a5bb  master -> master
+**********successful********************************************
+*********Begin the (2) times commit*****************************
