@@ -15733,3 +15733,9 @@ To git@github.com:embpgp/gitfub.git
    bedce15..7aa70f4  master -> master
 **********successful********************************************
 *********Begin the (22) times commit*****************************
+[master 6026cfb] the 22 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   7aa70f4..6026cfb  master -> master
+**********successful********************************************
+*********Begin the (23) times commit*****************************
