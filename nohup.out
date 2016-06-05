@@ -151,3 +151,9 @@ To git@github.com:embpgp/gitfub.git
    adb7cab..beb924d  master -> master
 **********successful********************************************
 *********Begin the (25) times commit*****************************
+[master ac0ad8b] the 25 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   beb924d..ac0ad8b  master -> master
+**********successful********************************************
+*********Begin the (26) times commit*****************************
