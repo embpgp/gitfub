@@ -9865,3 +9865,9 @@ To git@github.com:embpgp/gitfub.git
    b976f71..13df921  master -> master
 **********successful********************************************
 *********Begin the (84) times commit*****************************
+[master 8ed7f09] the 84 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   13df921..8ed7f09  master -> master
+**********successful********************************************
+*********Begin the (85) times commit*****************************
