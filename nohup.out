@@ -1,2 +1,9 @@
 
 *********Begin the (0) times commit*****************************
+[master a1f7858] the 0 times commit
+ 3 files changed, 15 insertions(+), 159 deletions(-)
+ rewrite nohup.out (100%)
+To git@github.com:embpgp/gitfub.git
+   7c11a0a..a1f7858  master -> master
+**********successful********************************************
+*********Begin the (1) times commit*****************************
