@@ -13411,3 +13411,9 @@ To git@github.com:embpgp/gitfub.git
    c356d23..86eb19e  master -> master
 **********successful********************************************
 *********Begin the (155) times commit*****************************
+[master 862fce5] the 155 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   86eb19e..862fce5  master -> master
+**********successful********************************************
+*********Begin the (156) times commit*****************************
