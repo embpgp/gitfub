@@ -8551,3 +8551,9 @@ To git@github.com:embpgp/gitfub.git
    3d5bcdd..eb501fe  master -> master
 **********successful********************************************
 *********Begin the (385) times commit*****************************
+[master a8315be] the 385 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   eb501fe..a8315be  master -> master
+**********successful********************************************
+*********Begin the (386) times commit*****************************
