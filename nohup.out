@@ -14545,3 +14545,9 @@ To git@github.com:embpgp/gitfub.git
    dc2e6db..8434a3d  master -> master
 **********successful********************************************
 *********Begin the (344) times commit*****************************
+[master 40f51fd] the 344 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   8434a3d..40f51fd  master -> master
+**********successful********************************************
+*********Begin the (345) times commit*****************************
