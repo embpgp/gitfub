@@ -169,3 +169,9 @@ To git@github.com:embpgp/gitfub.git
    10cedc3..c99bf9f  master -> master
 **********successful********************************************
 *********Begin the (28) times commit*****************************
+[master 7b8fe9d] the 28 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   c99bf9f..7b8fe9d  master -> master
+**********successful********************************************
+*********Begin the (29) times commit*****************************
