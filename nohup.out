@@ -3709,3 +3709,9 @@ To git@github.com:embpgp/gitfub.git
    a534e4e..db431e6  master -> master
 **********successful********************************************
 *********Begin the (98) times commit*****************************
+[master 8622c0c] the 98 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   db431e6..8622c0c  master -> master
+**********successful********************************************
+*********Begin the (99) times commit*****************************
