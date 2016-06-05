@@ -7201,3 +7201,9 @@ To git@github.com:embpgp/gitfub.git
    6d5901c..cac3a74  master -> master
 **********successful********************************************
 *********Begin the (160) times commit*****************************
+[master f794f54] the 160 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   cac3a74..f794f54  master -> master
+**********successful********************************************
+*********Begin the (161) times commit*****************************
