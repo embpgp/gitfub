@@ -8083,3 +8083,9 @@ To git@github.com:embpgp/gitfub.git
    7badafc..698a413  master -> master
 **********successful********************************************
 *********Begin the (307) times commit*****************************
+[master 564530f] the 307 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   698a413..564530f  master -> master
+**********successful********************************************
+*********Begin the (308) times commit*****************************
