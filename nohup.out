@@ -1177,3 +1177,9 @@ To git@github.com:embpgp/gitfub.git
    df5cbad..3991565  master -> master
 **********successful********************************************
 *********Begin the (196) times commit*****************************
+[master e4afd43] the 196 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   3991565..e4afd43  master -> master
+**********successful********************************************
+*********Begin the (197) times commit*****************************
