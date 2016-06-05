@@ -15709,3 +15709,9 @@ To git@github.com:embpgp/gitfub.git
    d4ac783..cc5dacc  master -> master
 **********successful********************************************
 *********Begin the (18) times commit*****************************
+[master 6dd6ac2] the 18 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   cc5dacc..6dd6ac2  master -> master
+**********successful********************************************
+*********Begin the (19) times commit*****************************
