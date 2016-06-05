@@ -13231,3 +13231,9 @@ To git@github.com:embpgp/gitfub.git
    5d86b07..dfc750a  master -> master
 **********successful********************************************
 *********Begin the (125) times commit*****************************
+[master ce1111f] the 125 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   dfc750a..ce1111f  master -> master
+**********successful********************************************
+*********Begin the (126) times commit*****************************
