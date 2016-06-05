@@ -79,3 +79,9 @@ To git@github.com:embpgp/gitfub.git
    e3fb577..ef54490  master -> master
 **********successful********************************************
 *********Begin the (13) times commit*****************************
+[master c48162d] the 13 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   ef54490..c48162d  master -> master
+**********successful********************************************
+*********Begin the (14) times commit*****************************
