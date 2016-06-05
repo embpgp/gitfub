@@ -14719,3 +14719,9 @@ To git@github.com:embpgp/gitfub.git
    cd1045d..7b0e52a  master -> master
 **********successful********************************************
 *********Begin the (373) times commit*****************************
+[master 198ccb6] the 373 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   7b0e52a..198ccb6  master -> master
+**********successful********************************************
+*********Begin the (374) times commit*****************************
