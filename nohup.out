@@ -457,3 +457,9 @@ To git@github.com:embpgp/gitfub.git
    b841319..faeea5f  master -> master
 **********successful********************************************
 *********Begin the (76) times commit*****************************
+[master cfe36e6] the 76 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   faeea5f..cfe36e6  master -> master
+**********successful********************************************
+*********Begin the (77) times commit*****************************
