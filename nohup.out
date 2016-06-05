@@ -8359,3 +8359,9 @@ To git@github.com:embpgp/gitfub.git
    babd25a..58102b6  master -> master
 **********successful********************************************
 *********Begin the (353) times commit*****************************
+[master 3d80162] the 353 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   58102b6..3d80162  master -> master
+**********successful********************************************
+*********Begin the (354) times commit*****************************
