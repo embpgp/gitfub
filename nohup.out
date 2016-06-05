@@ -14623,3 +14623,9 @@ To git@github.com:embpgp/gitfub.git
    07c6807..fedcd27  master -> master
 **********successful********************************************
 *********Begin the (357) times commit*****************************
+[master 0d32724] the 357 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   fedcd27..0d32724  master -> master
+**********successful********************************************
+*********Begin the (358) times commit*****************************
