@@ -98,3 +98,9 @@ To git@github.com:embpgp/gitfub.git
    8402c39..4ca3395  master -> master
 **********successful********************************************
 *********Begin the (16) times commit*****************************
+[master ca171b1] the 16 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   4ca3395..ca171b1  master -> master
+**********successful********************************************
+*********Begin the (17) times commit*****************************
