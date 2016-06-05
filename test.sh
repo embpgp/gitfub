@@ -3,6 +3,7 @@
 commit(){
 	git status
 	sleep 1
+	echo "*********开始提交**************"
 	#git pull
 	sleep 1
 	git add *
@@ -10,7 +11,7 @@ commit(){
 	git commit -m "the $1 times commit"
 	sleep 1
 	git push origin master
-	echo "成功提交"
+	echo "**********成功提交**************"
 }
 
 value=0
@@ -19,8 +20,9 @@ do
 commit $value
 value=`expr $value + 1`
 echo $value > ./fUKK.txt
-if [ $value -eq 5 ]
+if [ $value -eq $1 ]
 then
 value=0
 fi
+sleep 5
 done
