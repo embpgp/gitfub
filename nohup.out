@@ -15001,3 +15001,9 @@ To git@github.com:embpgp/gitfub.git
    ba72668..189c5aa  master -> master
 **********successful********************************************
 *********Begin the (420) times commit*****************************
+[master cecbfd8] the 420 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   189c5aa..cecbfd8  master -> master
+**********successful********************************************
+*********Begin the (421) times commit*****************************
