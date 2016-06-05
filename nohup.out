@@ -11491,3 +11491,9 @@ To git@github.com:embpgp/gitfub.git
    f2f2245..3926e05  master -> master
 **********successful********************************************
 *********Begin the (355) times commit*****************************
+[master cafed88] the 355 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   3926e05..cafed88  master -> master
+**********successful********************************************
+*********Begin the (356) times commit*****************************
