@@ -15361,3 +15361,9 @@ To git@github.com:embpgp/gitfub.git
    c32adfb..ccc2d54  master -> master
 **********successful********************************************
 *********Begin the (480) times commit*****************************
+[master 506c52a] the 480 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   ccc2d54..506c52a  master -> master
+**********successful********************************************
+*********Begin the (481) times commit*****************************
