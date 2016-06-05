@@ -3193,3 +3193,9 @@ To git@github.com:embpgp/gitfub.git
    4ffe332..95e4029  master -> master
 **********successful********************************************
 *********Begin the (12) times commit*****************************
+[master a018fae] the 12 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   95e4029..a018fae  master -> master
+**********successful********************************************
+*********Begin the (13) times commit*****************************
