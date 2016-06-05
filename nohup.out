@@ -11521,3 +11521,9 @@ To git@github.com:embpgp/gitfub.git
    b1209e9..14ea390  master -> master
 **********successful********************************************
 *********Begin the (360) times commit*****************************
+[master 60e3421] the 360 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   14ea390..60e3421  master -> master
+**********successful********************************************
+*********Begin the (361) times commit*****************************
