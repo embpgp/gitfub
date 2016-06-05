@@ -61,3 +61,9 @@ To git@github.com:embpgp/gitfub.git
    fc1216b..a09ccc8  master -> master
 **********successful********************************************
 *********Begin the (10) times commit*****************************
+[master fc6962b] the 10 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   a09ccc8..fc6962b  master -> master
+**********successful********************************************
+*********Begin the (11) times commit*****************************
