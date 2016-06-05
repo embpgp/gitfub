@@ -3361,3 +3361,9 @@ To git@github.com:embpgp/gitfub.git
    0724542..0a3db15  master -> master
 **********successful********************************************
 *********Begin the (40) times commit*****************************
+[master d12188d] the 40 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   0a3db15..d12188d  master -> master
+**********successful********************************************
+*********Begin the (41) times commit*****************************
