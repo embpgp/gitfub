@@ -17,9 +17,9 @@ value = 0
 while true
 do
 commit $value
-$((value += 1))
+value = `expr $value + 1`
 echo $value >> ./fUKK.txt
-if [ $value == 5 ]
+if [ $value -eq 5 ]
 then
 value = 0
 fi
