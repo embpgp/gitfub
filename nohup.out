@@ -3433,3 +3433,9 @@ To git@github.com:embpgp/gitfub.git
    1c8683c..36eb7b3  master -> master
 **********successful********************************************
 *********Begin the (52) times commit*****************************
+[master 529ac69] the 52 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   36eb7b3..529ac69  master -> master
+**********successful********************************************
+*********Begin the (53) times commit*****************************
