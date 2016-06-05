@@ -12811,3 +12811,9 @@ To git@github.com:embpgp/gitfub.git
    8e3d1db..03e45db  master -> master
 **********successful********************************************
 *********Begin the (55) times commit*****************************
+[master ea95dcd] the 55 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   03e45db..ea95dcd  master -> master
+**********successful********************************************
+*********Begin the (56) times commit*****************************
