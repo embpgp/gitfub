@@ -7909,3 +7909,9 @@ To git@github.com:embpgp/gitfub.git
    2010b42..4abc9da  master -> master
 **********successful********************************************
 *********Begin the (278) times commit*****************************
+[master c7fee72] the 278 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   4abc9da..c7fee72  master -> master
+**********successful********************************************
+*********Begin the (279) times commit*****************************
