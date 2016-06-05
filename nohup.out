@@ -50,3 +50,9 @@ To git@github.com:embpgp/gitfub.git
    8e1f58f..c46bc57  master -> master
 **********successful********************************************
 *********Begin the (8) times commit*****************************
+[master 125da9d] the 8 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   c46bc57..125da9d  master -> master
+**********successful********************************************
+*********Begin the (9) times commit*****************************
