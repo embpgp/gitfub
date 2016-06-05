@@ -9667,3 +9667,9 @@ To git@github.com:embpgp/gitfub.git
    b9425fc..181c08c  master -> master
 **********successful********************************************
 *********Begin the (51) times commit*****************************
+[master ee042ad] the 51 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   181c08c..ee042ad  master -> master
+**********successful********************************************
+*********Begin the (52) times commit*****************************
