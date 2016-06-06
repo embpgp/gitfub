@@ -18450,3 +18450,9 @@ To git@github.com:embpgp/gitfub.git
    23611d9..11a14ae  master -> master
 **********successful********************************************
 *********Begin the (3) times commit*****************************
+[master 31a33b8] the 3 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   11a14ae..31a33b8  master -> master
+**********successful********************************************
+*********Begin the (4) times commit*****************************
