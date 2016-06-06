@@ -16904,3 +16904,9 @@ To git@github.com:embpgp/gitfub.git
    8889e19..1165132  master -> master
 **********successful********************************************
 *********Begin the (770) times commit*****************************
+[master bddd1de] the 770 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   1165132..bddd1de  master -> master
+**********successful********************************************
+*********Begin the (771) times commit*****************************
