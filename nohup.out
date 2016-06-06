@@ -1168,3 +1168,9 @@ To git@github.com:embpgp/gitfub.git
    8df2738..cdfa34d  master -> master
 **********successful********************************************
 *********Begin the (196) times commit*****************************
+[master 1860e82] the 196 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   cdfa34d..1860e82  master -> master
+**********successful********************************************
+*********Begin the (197) times commit*****************************
