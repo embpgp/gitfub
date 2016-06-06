@@ -1600,3 +1600,9 @@ To git@github.com:embpgp/gitfub.git
    1045b40..ba3df48  master -> master
 **********successful********************************************
 *********Begin the (268) times commit*****************************
+[master a644cad] the 268 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   ba3df48..a644cad  master -> master
+**********successful********************************************
+*********Begin the (269) times commit*****************************
