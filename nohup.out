@@ -434,3 +434,9 @@ To git@github.com:embpgp/gitfub.git
    cf1ca40..8e21fcc  master -> master
 **********successful********************************************
 *********Begin the (72) times commit*****************************
+[master 26ec13d] the 72 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   8e21fcc..26ec13d  master -> master
+**********successful********************************************
+*********Begin the (73) times commit*****************************
