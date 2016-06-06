@@ -88,3 +88,12 @@ Please make sure you have the correct access rights
 and the repository exists.
 **********successful********************************************
 *********Begin the (2) times commit*****************************
+[master 1191b09] the 2 times commit
+ 2 files changed, 11 insertions(+), 1 deletion(-)
+Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+**********successful********************************************
+*********Begin the (3) times commit*****************************
