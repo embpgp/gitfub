@@ -19008,3 +19008,9 @@ To git@github.com:embpgp/gitfub.git
    9a67adc..24a7840  master -> master
 **********successful********************************************
 *********Begin the (96) times commit*****************************
+[master b88af57] the 96 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   24a7840..b88af57  master -> master
+**********successful********************************************
+*********Begin the (97) times commit*****************************
