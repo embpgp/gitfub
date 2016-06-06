@@ -19176,3 +19176,9 @@ To git@github.com:embpgp/gitfub.git
    8079c9a..dfc58db  master -> master
 **********successful********************************************
 *********Begin the (124) times commit*****************************
+[master e70795d] the 124 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   dfc58db..e70795d  master -> master
+**********successful********************************************
+*********Begin the (125) times commit*****************************
