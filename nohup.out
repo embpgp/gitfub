@@ -7654,3 +7654,9 @@ To git@github.com:embpgp/gitfub.git
    c2290bc..eb807ec  master -> master
 **********successful********************************************
 *********Begin the (253) times commit*****************************
+[master fda94a9] the 253 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   eb807ec..fda94a9  master -> master
+**********successful********************************************
+*********Begin the (254) times commit*****************************
