@@ -13240,3 +13240,9 @@ To git@github.com:embpgp/gitfub.git
    4e30879..fc5721e  master -> master
 **********successful********************************************
 *********Begin the (160) times commit*****************************
+[master a38cae6] the 160 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   fc5721e..a38cae6  master -> master
+**********successful********************************************
+*********Begin the (161) times commit*****************************
