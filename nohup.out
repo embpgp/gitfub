@@ -24570,3 +24570,9 @@ To git@github.com:embpgp/gitfub.git
    ffcdabb..d1762b8  master -> master
 **********successful********************************************
 *********Begin the (1023) times commit*****************************
+[master b2071db] the 1023 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   d1762b8..b2071db  master -> master
+**********successful********************************************
+*********Begin the (0) times commit*****************************
