@@ -68,3 +68,13 @@ Please make sure you have the correct access rights
 and the repository exists.
 **********successful********************************************
 *********Begin the (0) times commit*****************************
+[master e30c676] the 0 times commit
+ 2 files changed, 11 insertions(+), 1 deletion(-)
+Warning: Permanently added the RSA host key for IP address '192.30.252.120' to the list of known hosts.
+Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+**********successful********************************************
+*********Begin the (1) times commit*****************************
