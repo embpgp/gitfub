@@ -11320,3 +11320,9 @@ To git@github.com:embpgp/gitfub.git
    c249c7f..18cda3d  master -> master
 **********successful********************************************
 *********Begin the (864) times commit*****************************
+[master 7fba263] the 864 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   18cda3d..7fba263  master -> master
+**********successful********************************************
+*********Begin the (865) times commit*****************************
