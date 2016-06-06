@@ -26796,3 +26796,9 @@ To git@github.com:embpgp/gitfub.git
    4a56ef3..591467f  master -> master
 **********successful********************************************
 *********Begin the (370) times commit*****************************
+[master 1c26845] the 370 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   591467f..1c26845  master -> master
+**********successful********************************************
+*********Begin the (371) times commit*****************************
