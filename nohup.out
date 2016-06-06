@@ -12484,3 +12484,9 @@ To git@github.com:embpgp/gitfub.git
    fee0691..696fdc2  master -> master
 **********successful********************************************
 *********Begin the (34) times commit*****************************
+[master 1598a21] the 34 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   696fdc2..1598a21  master -> master
+**********successful********************************************
+*********Begin the (35) times commit*****************************
