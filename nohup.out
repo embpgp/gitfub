@@ -16660,3 +16660,9 @@ To git@github.com:embpgp/gitfub.git
    dc21a07..9f06f60  master -> master
 **********successful********************************************
 *********Begin the (730) times commit*****************************
+[master 00cfee4] the 730 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   9f06f60..00cfee4  master -> master
+**********successful********************************************
+*********Begin the (731) times commit*****************************
