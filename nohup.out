@@ -5092,3 +5092,9 @@ To git@github.com:embpgp/gitfub.git
    facb280..e754362  master -> master
 **********successful********************************************
 *********Begin the (850) times commit*****************************
+[master 4a2217d] the 850 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   e754362..4a2217d  master -> master
+**********successful********************************************
+*********Begin the (851) times commit*****************************
