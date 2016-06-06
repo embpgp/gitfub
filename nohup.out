@@ -13108,3 +13108,9 @@ To git@github.com:embpgp/gitfub.git
    db2507c..e63a2e7  master -> master
 **********successful********************************************
 *********Begin the (138) times commit*****************************
+[master 69976a6] the 138 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   e63a2e7..69976a6  master -> master
+**********successful********************************************
+*********Begin the (139) times commit*****************************
