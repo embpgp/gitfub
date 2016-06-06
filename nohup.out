@@ -12850,3 +12850,9 @@ To git@github.com:embpgp/gitfub.git
    a46ceaf..c743be9  master -> master
 **********successful********************************************
 *********Begin the (95) times commit*****************************
+[master ac0084f] the 95 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   c743be9..ac0084f  master -> master
+**********successful********************************************
+*********Begin the (96) times commit*****************************
