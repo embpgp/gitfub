@@ -22200,3 +22200,9 @@ To git@github.com:embpgp/gitfub.git
    cff97cc..dfe2392  master -> master
 **********successful********************************************
 *********Begin the (628) times commit*****************************
+[master 345b9c3] the 628 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   dfe2392..345b9c3  master -> master
+**********successful********************************************
+*********Begin the (629) times commit*****************************
