@@ -26172,3 +26172,9 @@ To git@github.com:embpgp/gitfub.git
    25e8fa5..dbc0f1b  master -> master
 **********successful********************************************
 *********Begin the (266) times commit*****************************
+[master 0408fef] the 266 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   dbc0f1b..0408fef  master -> master
+**********successful********************************************
+*********Begin the (267) times commit*****************************
