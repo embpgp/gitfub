@@ -18438,3 +18438,9 @@ To git@github.com:embpgp/gitfub.git
    267a207..2014722  master -> master
 **********successful********************************************
 *********Begin the (1) times commit*****************************
+[master 23611d9] the 1 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   2014722..23611d9  master -> master
+**********successful********************************************
+*********Begin the (2) times commit*****************************
