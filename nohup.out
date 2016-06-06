@@ -27852,3 +27852,9 @@ To git@github.com:embpgp/gitfub.git
    c990356..dc24bf7  master -> master
 **********successful********************************************
 *********Begin the (546) times commit*****************************
+[master b2e8521] the 546 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   dc24bf7..b2e8521  master -> master
+**********successful********************************************
+*********Begin the (547) times commit*****************************
