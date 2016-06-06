@@ -24720,3 +24720,9 @@ To git@github.com:embpgp/gitfub.git
    e3ae1d6..d1b3f57  master -> master
 **********successful********************************************
 *********Begin the (24) times commit*****************************
+[master 3ee7b31] the 24 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   d1b3f57..3ee7b31  master -> master
+**********successful********************************************
+*********Begin the (25) times commit*****************************
