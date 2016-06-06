@@ -38,7 +38,7 @@ do
 		value=0
 		if [ -f $nohap ] 
 			then
-			echo > $nohap.out #flush the log
+			echo  > $nohap  #flush the log
 		fi
 	fi
 	sleep 5
