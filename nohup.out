@@ -3304,3 +3304,9 @@ To git@github.com:embpgp/gitfub.git
    fabaa18..7393e08  master -> master
 **********successful********************************************
 *********Begin the (552) times commit*****************************
+[master bc4fa10] the 552 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   7393e08..bc4fa10  master -> master
+**********successful********************************************
+*********Begin the (553) times commit*****************************
