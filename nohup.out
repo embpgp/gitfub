@@ -7396,3 +7396,9 @@ To git@github.com:embpgp/gitfub.git
    cccb09c..c952cf2  master -> master
 **********successful********************************************
 *********Begin the (210) times commit*****************************
+[master 38de1f6] the 210 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   c952cf2..38de1f6  master -> master
+**********successful********************************************
+*********Begin the (211) times commit*****************************
