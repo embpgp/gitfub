@@ -25146,3 +25146,9 @@ To git@github.com:embpgp/gitfub.git
    2ca97bd..86ec83e  master -> master
 **********successful********************************************
 *********Begin the (95) times commit*****************************
+[master 902e660] the 95 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   86ec83e..902e660  master -> master
+**********successful********************************************
+*********Begin the (96) times commit*****************************
