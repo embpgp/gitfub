@@ -25,7 +25,7 @@ commit(){
 	
 
 #the nahap log
-nohap.out=./nohap.out
+nohap="./nohap.out"
 echo $nohap.out
 value=0   #count the times
 while true
@@ -36,7 +36,7 @@ do
 	if [ $value -eq $1 ]   #after a loop times 
 		then
 		value=0
-		if [ -f $nohap.out ] 
+		if [ -f $nohap ] 
 			then
 			echo > $nohap.out #flush the log
 		fi
