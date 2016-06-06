@@ -12460,3 +12460,9 @@ To git@github.com:embpgp/gitfub.git
    a103426..5c57582  master -> master
 **********successful********************************************
 *********Begin the (30) times commit*****************************
+[master c85d654] the 30 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   5c57582..c85d654  master -> master
+**********successful********************************************
+*********Begin the (31) times commit*****************************
