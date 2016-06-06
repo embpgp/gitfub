@@ -12664,3 +12664,9 @@ To git@github.com:embpgp/gitfub.git
    eab90de..0eded61  master -> master
 **********successful********************************************
 *********Begin the (64) times commit*****************************
+[master 84320d7] the 64 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   0eded61..84320d7  master -> master
+**********successful********************************************
+*********Begin the (65) times commit*****************************
