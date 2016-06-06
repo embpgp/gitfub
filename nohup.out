@@ -23130,3 +23130,9 @@ To git@github.com:embpgp/gitfub.git
    7410edb..ff1a8e2  master -> master
 **********successful********************************************
 *********Begin the (783) times commit*****************************
+[master c746deb] the 783 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   ff1a8e2..c746deb  master -> master
+**********successful********************************************
+*********Begin the (784) times commit*****************************
