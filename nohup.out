@@ -12418,3 +12418,9 @@ To git@github.com:embpgp/gitfub.git
    add212c..0d8d261  master -> master
 **********successful********************************************
 *********Begin the (23) times commit*****************************
+[master e90aceb] the 23 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   0d8d261..e90aceb  master -> master
+**********successful********************************************
+*********Begin the (24) times commit*****************************
