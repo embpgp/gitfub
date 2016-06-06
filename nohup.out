@@ -23094,3 +23094,9 @@ To git@github.com:embpgp/gitfub.git
    5966950..adfdc94  master -> master
 **********successful********************************************
 *********Begin the (777) times commit*****************************
+[master 049bf74] the 777 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   adfdc94..049bf74  master -> master
+**********successful********************************************
+*********Begin the (778) times commit*****************************
