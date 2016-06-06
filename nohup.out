@@ -3412,3 +3412,9 @@ To git@github.com:embpgp/gitfub.git
    db1c83a..a27920d  master -> master
 **********successful********************************************
 *********Begin the (570) times commit*****************************
+[master 9d71105] the 570 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   a27920d..9d71105  master -> master
+**********successful********************************************
+*********Begin the (571) times commit*****************************
