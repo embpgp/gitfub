@@ -11950,3 +11950,9 @@ To git@github.com:embpgp/gitfub.git
    806debf..a5af69d  master -> master
 **********successful********************************************
 *********Begin the (969) times commit*****************************
+[master 162e1dd] the 969 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   a5af69d..162e1dd  master -> master
+**********successful********************************************
+*********Begin the (970) times commit*****************************
