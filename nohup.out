@@ -24996,3 +24996,9 @@ To git@github.com:embpgp/gitfub.git
    64eb84e..cdcd7a6  master -> master
 **********successful********************************************
 *********Begin the (70) times commit*****************************
+[master e46277e] the 70 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   cdcd7a6..e46277e  master -> master
+**********successful********************************************
+*********Begin the (71) times commit*****************************
