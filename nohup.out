@@ -4174,3 +4174,9 @@ To git@github.com:embpgp/gitfub.git
    de6017f..5ac4b3c  master -> master
 **********successful********************************************
 *********Begin the (697) times commit*****************************
+[master b3a5b42] the 697 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   5ac4b3c..b3a5b42  master -> master
+**********successful********************************************
+*********Begin the (698) times commit*****************************
