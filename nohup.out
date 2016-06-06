@@ -24876,3 +24876,9 @@ To git@github.com:embpgp/gitfub.git
    55a40f1..bcda2a1  master -> master
 **********successful********************************************
 *********Begin the (50) times commit*****************************
+[master 968509c] the 50 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   bcda2a1..968509c  master -> master
+**********successful********************************************
+*********Begin the (51) times commit*****************************
