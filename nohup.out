@@ -7810,3 +7810,9 @@ To git@github.com:embpgp/gitfub.git
    cbf1523..adbc660  master -> master
 **********successful********************************************
 *********Begin the (279) times commit*****************************
+[master c68dbd6] the 279 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   adbc660..c68dbd6  master -> master
+**********successful********************************************
+*********Begin the (280) times commit*****************************
