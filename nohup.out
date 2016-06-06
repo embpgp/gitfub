@@ -2458,3 +2458,9 @@ To git@github.com:embpgp/gitfub.git
    b504256..fab4d31  master -> master
 **********successful********************************************
 *********Begin the (411) times commit*****************************
+[master 69c0301] the 411 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   fab4d31..69c0301  master -> master
+**********successful********************************************
+*********Begin the (412) times commit*****************************
