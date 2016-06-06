@@ -18396,3 +18396,9 @@ To git@github.com:embpgp/gitfub.git
    23df70c..edca93d  master -> master
 **********successful********************************************
 *********Begin the (1018) times commit*****************************
+[master 52011c9] the 1018 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   edca93d..52011c9  master -> master
+**********successful********************************************
+*********Begin the (1019) times commit*****************************
