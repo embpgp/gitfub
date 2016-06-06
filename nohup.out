@@ -1954,3 +1954,9 @@ To git@github.com:embpgp/gitfub.git
    fa95c36..64180e2  master -> master
 **********successful********************************************
 *********Begin the (327) times commit*****************************
+[master 1fabc44] the 327 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   64180e2..1fabc44  master -> master
+**********successful********************************************
+*********Begin the (328) times commit*****************************
