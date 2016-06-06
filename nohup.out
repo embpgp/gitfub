@@ -3298,3 +3298,9 @@ To git@github.com:embpgp/gitfub.git
    9c33533..fabaa18  master -> master
 **********successful********************************************
 *********Begin the (551) times commit*****************************
+[master 7393e08] the 551 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   fabaa18..7393e08  master -> master
+**********successful********************************************
+*********Begin the (552) times commit*****************************
