@@ -262,3 +262,9 @@ To git@github.com:embpgp/gitfub.git
    f67be68..1955cfc  master -> master
 **********successful********************************************
 *********Begin the (45) times commit*****************************
+[master f341b53] the 45 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   1955cfc..f341b53  master -> master
+**********successful********************************************
+*********Begin the (46) times commit*****************************
