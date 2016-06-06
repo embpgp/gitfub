@@ -8050,3 +8050,9 @@ To git@github.com:embpgp/gitfub.git
    bddfd32..a617f53  master -> master
 **********successful********************************************
 *********Begin the (319) times commit*****************************
+[master a46a1a5] the 319 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   a617f53..a46a1a5  master -> master
+**********successful********************************************
+*********Begin the (320) times commit*****************************
