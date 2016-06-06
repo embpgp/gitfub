@@ -2026,3 +2026,9 @@ To git@github.com:embpgp/gitfub.git
    acf01d1..afbf02d  master -> master
 **********successful********************************************
 *********Begin the (339) times commit*****************************
+[master 35d3b54] the 339 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   afbf02d..35d3b54  master -> master
+**********successful********************************************
+*********Begin the (340) times commit*****************************
