@@ -24654,3 +24654,9 @@ To git@github.com:embpgp/gitfub.git
    1d8850f..b89009d  master -> master
 **********successful********************************************
 *********Begin the (13) times commit*****************************
+[master d3ea3f8] the 13 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   b89009d..d3ea3f8  master -> master
+**********successful********************************************
+*********Begin the (14) times commit*****************************
