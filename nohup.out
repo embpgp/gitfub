@@ -16,3 +16,9 @@ To git@github.com:embpgp/gitfub.git
    1b5b41d..26a2049  master -> master
 **********successful********************************************
 *********Begin the (4) times commit*****************************
+[master ebf993a] the 4 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   26a2049..ebf993a  master -> master
+**********successful********************************************
+*********Begin the (5) times commit*****************************
