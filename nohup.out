@@ -24564,3 +24564,9 @@ To git@github.com:embpgp/gitfub.git
    aa7c9df..ffcdabb  master -> master
 **********successful********************************************
 *********Begin the (1022) times commit*****************************
+[master d1762b8] the 1022 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   ffcdabb..d1762b8  master -> master
+**********successful********************************************
+*********Begin the (1023) times commit*****************************
