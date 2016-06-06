@@ -17670,3 +17670,9 @@ To git@github.com:embpgp/gitfub.git
    9fb59de..b00a0d7  master -> master
 **********successful********************************************
 *********Begin the (897) times commit*****************************
+[master 6a80934] the 897 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   b00a0d7..6a80934  master -> master
+**********successful********************************************
+*********Begin the (898) times commit*****************************
