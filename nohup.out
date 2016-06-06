@@ -326,3 +326,9 @@ To git@github.com:embpgp/gitfub.git
    a4ddf98..ffcd305  master -> master
 **********successful********************************************
 *********Begin the (54) times commit*****************************
+[master 8a01794] the 54 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   ffcd305..8a01794  master -> master
+**********successful********************************************
+*********Begin the (55) times commit*****************************
