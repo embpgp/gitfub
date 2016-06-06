@@ -20580,3 +20580,9 @@ To git@github.com:embpgp/gitfub.git
    b355912..7967064  master -> master
 **********successful********************************************
 *********Begin the (358) times commit*****************************
+[master 0f1a517] the 358 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   7967064..0f1a517  master -> master
+**********successful********************************************
+*********Begin the (359) times commit*****************************
