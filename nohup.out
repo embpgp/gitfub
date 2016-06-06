@@ -20376,3 +20376,9 @@ To git@github.com:embpgp/gitfub.git
    a663d5c..8ca91cd  master -> master
 **********successful********************************************
 *********Begin the (324) times commit*****************************
+[master aa11123] the 324 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   8ca91cd..aa11123  master -> master
+**********successful********************************************
+*********Begin the (325) times commit*****************************
