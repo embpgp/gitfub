@@ -26736,3 +26736,9 @@ To git@github.com:embpgp/gitfub.git
    da3bf7d..bfd9d64  master -> master
 **********successful********************************************
 *********Begin the (360) times commit*****************************
+[master 1d67006] the 360 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   bfd9d64..1d67006  master -> master
+**********successful********************************************
+*********Begin the (361) times commit*****************************
