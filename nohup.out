@@ -16012,3 +16012,9 @@ To git@github.com:embpgp/gitfub.git
    431db12..b452d44  master -> master
 **********successful********************************************
 *********Begin the (622) times commit*****************************
+[master 76b8396] the 622 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   b452d44..76b8396  master -> master
+**********successful********************************************
+*********Begin the (623) times commit*****************************
