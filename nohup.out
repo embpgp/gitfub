@@ -26130,3 +26130,9 @@ To git@github.com:embpgp/gitfub.git
    bf70c08..cade574  master -> master
 **********successful********************************************
 *********Begin the (259) times commit*****************************
+[master e1a189a] the 259 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   cade574..e1a189a  master -> master
+**********successful********************************************
+*********Begin the (260) times commit*****************************
