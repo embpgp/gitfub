@@ -350,3 +350,9 @@ To git@github.com:embpgp/gitfub.git
    f20e501..dfef62f  master -> master
 **********successful********************************************
 *********Begin the (58) times commit*****************************
+[master 0cab343] the 58 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   dfef62f..0cab343  master -> master
+**********successful********************************************
+*********Begin the (59) times commit*****************************
