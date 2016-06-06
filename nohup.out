@@ -18636,3 +18636,9 @@ To git@github.com:embpgp/gitfub.git
    a77a273..54bf665  master -> master
 **********successful********************************************
 *********Begin the (34) times commit*****************************
+[master 74a1bf4] the 34 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   54bf665..74a1bf4  master -> master
+**********successful********************************************
+*********Begin the (35) times commit*****************************
