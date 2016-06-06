@@ -18486,3 +18486,9 @@ To git@github.com:embpgp/gitfub.git
    ddc96f5..fc5b9b4  master -> master
 **********successful********************************************
 *********Begin the (9) times commit*****************************
+[master df56812] the 9 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   fc5b9b4..df56812  master -> master
+**********successful********************************************
+*********Begin the (10) times commit*****************************
