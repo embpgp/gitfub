@@ -17006,3 +17006,13 @@ To git@github.com:embpgp/gitfub.git
    dd77343..208512e  master -> master
 **********successful********************************************
 *********Begin the (787) times commit*****************************
+[master df793f3] the 787 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+Received disconnect from 192.30.252.121 port 22:11: Bye Bye
+Connection to github.com closed by remote host.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+**********successful********************************************
+*********Begin the (788) times commit*****************************
