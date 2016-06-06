@@ -3310,3 +3310,9 @@ To git@github.com:embpgp/gitfub.git
    7393e08..bc4fa10  master -> master
 **********successful********************************************
 *********Begin the (553) times commit*****************************
+[master 049d252] the 553 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   bc4fa10..049d252  master -> master
+**********successful********************************************
+*********Begin the (554) times commit*****************************
