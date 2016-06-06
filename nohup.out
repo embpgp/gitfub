@@ -2338,3 +2338,9 @@ To git@github.com:embpgp/gitfub.git
    6105206..ddb9167  master -> master
 **********successful********************************************
 *********Begin the (391) times commit*****************************
+[master 8f064a2] the 391 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   ddb9167..8f064a2  master -> master
+**********successful********************************************
+*********Begin the (392) times commit*****************************
