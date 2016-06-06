@@ -7078,3 +7078,9 @@ To git@github.com:embpgp/gitfub.git
    67176c9..dedda77  master -> master
 **********successful********************************************
 *********Begin the (157) times commit*****************************
+[master 2ed20dd] the 157 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   dedda77..2ed20dd  master -> master
+**********successful********************************************
+*********Begin the (158) times commit*****************************
