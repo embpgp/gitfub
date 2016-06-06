@@ -478,3 +478,9 @@ To git@github.com:embpgp/gitfub.git
    e0a9f8b..e129c22  master -> master
 **********successful********************************************
 *********Begin the (81) times commit*****************************
+[master c19043c] the 81 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   e129c22..c19043c  master -> master
+**********successful********************************************
+*********Begin the (82) times commit*****************************
