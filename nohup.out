@@ -4120,3 +4120,9 @@ To git@github.com:embpgp/gitfub.git
    35dfe1a..76523db  master -> master
 **********successful********************************************
 *********Begin the (688) times commit*****************************
+[master ac873a1] the 688 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   76523db..ac873a1  master -> master
+**********successful********************************************
+*********Begin the (689) times commit*****************************
