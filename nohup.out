@@ -18600,3 +18600,9 @@ To git@github.com:embpgp/gitfub.git
    bc8be7f..a93bdfd  master -> master
 **********successful********************************************
 *********Begin the (28) times commit*****************************
+[master 699336e] the 28 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   a93bdfd..699336e  master -> master
+**********successful********************************************
+*********Begin the (29) times commit*****************************
