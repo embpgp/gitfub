@@ -25176,3 +25176,9 @@ To git@github.com:embpgp/gitfub.git
    c257d3f..fee9e53  master -> master
 **********successful********************************************
 *********Begin the (100) times commit*****************************
+[master c457201] the 100 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   fee9e53..c457201  master -> master
+**********successful********************************************
+*********Begin the (101) times commit*****************************
