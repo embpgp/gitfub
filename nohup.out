@@ -124,3 +124,9 @@ fatal: Could not read from remote repository.
 Please make sure you have the correct access rights
 and the repository exists.
 *********Begin the (0) times commit*****************************
+[master a0b59be] the 0 times commit
+ 1 file changed, 8 insertions(+)
+To git@github.com:embpgp/gitfub.git
+   08e2d88..a0b59be  master -> master
+**********successful********************************************
+*********Begin the (1) times commit*****************************
