@@ -742,3 +742,9 @@ To git@github.com:embpgp/gitfub.git
    b2d5395..3df750a  master -> master
 **********successful********************************************
 *********Begin the (125) times commit*****************************
+[master e5fb1b1] the 125 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   3df750a..e5fb1b1  master -> master
+**********successful********************************************
+*********Begin the (126) times commit*****************************
