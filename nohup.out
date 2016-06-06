@@ -12016,3 +12016,9 @@ To git@github.com:embpgp/gitfub.git
    6460116..d0cff70  master -> master
 **********successful********************************************
 *********Begin the (980) times commit*****************************
+[master d065488] the 980 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   d0cff70..d065488  master -> master
+**********successful********************************************
+*********Begin the (981) times commit*****************************
