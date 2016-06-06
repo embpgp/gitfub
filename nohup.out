@@ -12304,3 +12304,9 @@ To git@github.com:embpgp/gitfub.git
    3414c23..0ac1f81  master -> master
 **********successful********************************************
 *********Begin the (4) times commit*****************************
+[master 7fdd157] the 4 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   0ac1f81..7fdd157  master -> master
+**********successful********************************************
+*********Begin the (5) times commit*****************************
