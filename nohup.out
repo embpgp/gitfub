@@ -1522,3 +1522,9 @@ To git@github.com:embpgp/gitfub.git
    5deef29..029c637  master -> master
 **********successful********************************************
 *********Begin the (255) times commit*****************************
+[master ace4fba] the 255 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   029c637..ace4fba  master -> master
+**********successful********************************************
+*********Begin the (256) times commit*****************************
