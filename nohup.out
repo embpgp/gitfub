@@ -21756,3 +21756,9 @@ To git@github.com:embpgp/gitfub.git
    bbfadf4..ac80874  master -> master
 **********successful********************************************
 *********Begin the (554) times commit*****************************
+[master 0e48a71] the 554 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   ac80874..0e48a71  master -> master
+**********successful********************************************
+*********Begin the (555) times commit*****************************
