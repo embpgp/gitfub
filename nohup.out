@@ -6112,3 +6112,9 @@ To git@github.com:embpgp/gitfub.git
    883b3ab..bed756c  master -> master
 **********successful********************************************
 *********Begin the (1020) times commit*****************************
+[master e0bf476] the 1020 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   bed756c..e0bf476  master -> master
+**********successful********************************************
+*********Begin the (1021) times commit*****************************
