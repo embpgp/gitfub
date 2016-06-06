@@ -898,3 +898,9 @@ To git@github.com:embpgp/gitfub.git
    404a9d3..cc0c11d  master -> master
 **********successful********************************************
 *********Begin the (151) times commit*****************************
+[master bcd232a] the 151 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   cc0c11d..bcd232a  master -> master
+**********successful********************************************
+*********Begin the (152) times commit*****************************
