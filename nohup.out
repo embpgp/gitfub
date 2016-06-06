@@ -58,3 +58,9 @@ To git@github.com:embpgp/gitfub.git
    88c0289..985e1ea  master -> master
 **********successful********************************************
 *********Begin the (11) times commit*****************************
+[master f196897] the 11 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   985e1ea..f196897  master -> master
+**********successful********************************************
+*********Begin the (12) times commit*****************************
