@@ -12880,3 +12880,9 @@ To git@github.com:embpgp/gitfub.git
    7362968..d016b66  master -> master
 **********successful********************************************
 *********Begin the (100) times commit*****************************
+[master be35a81] the 100 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   d016b66..be35a81  master -> master
+**********successful********************************************
+*********Begin the (101) times commit*****************************
