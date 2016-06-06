@@ -7000,3 +7000,9 @@ To git@github.com:embpgp/gitfub.git
    d235754..cd7dc4c  master -> master
 **********successful********************************************
 *********Begin the (144) times commit*****************************
+[master a2bb821] the 144 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   cd7dc4c..a2bb821  master -> master
+**********successful********************************************
+*********Begin the (145) times commit*****************************
