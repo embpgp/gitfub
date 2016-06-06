@@ -9730,3 +9730,9 @@ To git@github.com:embpgp/gitfub.git
    cac7286..aa78d2d  master -> master
 **********successful********************************************
 *********Begin the (599) times commit*****************************
+[master d3b5909] the 599 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   aa78d2d..d3b5909  master -> master
+**********successful********************************************
+*********Begin the (600) times commit*****************************
