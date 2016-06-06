@@ -3940,3 +3940,9 @@ To git@github.com:embpgp/gitfub.git
    5c68884..0fce67a  master -> master
 **********successful********************************************
 *********Begin the (658) times commit*****************************
+[master b0a4794] the 658 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   0fce67a..b0a4794  master -> master
+**********successful********************************************
+*********Begin the (659) times commit*****************************
