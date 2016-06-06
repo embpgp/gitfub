@@ -1894,3 +1894,9 @@ To git@github.com:embpgp/gitfub.git
    2102c04..44cfdff  master -> master
 **********successful********************************************
 *********Begin the (317) times commit*****************************
+[master cb51ec3] the 317 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   44cfdff..cb51ec3  master -> master
+**********successful********************************************
+*********Begin the (318) times commit*****************************
