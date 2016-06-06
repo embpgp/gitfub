@@ -6796,3 +6796,9 @@ To git@github.com:embpgp/gitfub.git
    b5c6d70..afade17  master -> master
 **********successful********************************************
 *********Begin the (110) times commit*****************************
+[master 8991a71] the 110 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   afade17..8991a71  master -> master
+**********successful********************************************
+*********Begin the (111) times commit*****************************
