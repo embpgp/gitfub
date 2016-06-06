@@ -25224,3 +25224,9 @@ To git@github.com:embpgp/gitfub.git
    dfdb73c..c4d183e  master -> master
 **********successful********************************************
 *********Begin the (108) times commit*****************************
+[master ea43c0f] the 108 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   c4d183e..ea43c0f  master -> master
+**********successful********************************************
+*********Begin the (109) times commit*****************************
