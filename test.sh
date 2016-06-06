@@ -26,6 +26,7 @@ commit(){
 
 #the nahap log
 nohap.out="./nohap.out"
+echo $nohap.out
 value=0   #count the times
 while true
 do
