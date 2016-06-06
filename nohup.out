@@ -12124,3 +12124,9 @@ To git@github.com:embpgp/gitfub.git
    72556ff..a26560e  master -> master
 **********successful********************************************
 *********Begin the (998) times commit*****************************
+[master 2a8f57c] the 998 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   a26560e..2a8f57c  master -> master
+**********successful********************************************
+*********Begin the (999) times commit*****************************
