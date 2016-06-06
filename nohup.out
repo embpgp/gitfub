@@ -16708,3 +16708,13 @@ To git@github.com:embpgp/gitfub.git
    1256eb4..339a189  master -> master
 **********successful********************************************
 *********Begin the (738) times commit*****************************
+[master 12b1665] the 738 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+Received disconnect from 192.30.252.123 port 22:11: Bye Bye
+Connection to github.com closed by remote host.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+**********successful********************************************
+*********Begin the (739) times commit*****************************
