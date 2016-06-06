@@ -18390,3 +18390,9 @@ To git@github.com:embpgp/gitfub.git
    fbc3055..23df70c  master -> master
 **********successful********************************************
 *********Begin the (1017) times commit*****************************
+[master edca93d] the 1017 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   23df70c..edca93d  master -> master
+**********successful********************************************
+*********Begin the (1018) times commit*****************************
