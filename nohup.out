@@ -6040,3 +6040,9 @@ To git@github.com:embpgp/gitfub.git
    cf63c89..d344b21  master -> master
 **********successful********************************************
 *********Begin the (1008) times commit*****************************
+[master ef85cf8] the 1008 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   d344b21..ef85cf8  master -> master
+**********successful********************************************
+*********Begin the (1009) times commit*****************************
