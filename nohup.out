@@ -24960,3 +24960,9 @@ To git@github.com:embpgp/gitfub.git
    1e0b9e8..9f94acf  master -> master
 **********successful********************************************
 *********Begin the (64) times commit*****************************
+[master 7c841b3] the 64 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   9f94acf..7c841b3  master -> master
+**********successful********************************************
+*********Begin the (65) times commit*****************************
