@@ -13120,3 +13120,9 @@ To git@github.com:embpgp/gitfub.git
    69976a6..50e3ab7  master -> master
 **********successful********************************************
 *********Begin the (140) times commit*****************************
+[master 60b25b7] the 140 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   50e3ab7..60b25b7  master -> master
+**********successful********************************************
+*********Begin the (141) times commit*****************************
