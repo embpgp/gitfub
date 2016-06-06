@@ -2554,3 +2554,9 @@ To git@github.com:embpgp/gitfub.git
    cb50304..554fba2  master -> master
 **********successful********************************************
 *********Begin the (427) times commit*****************************
+[master 295b999] the 427 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   554fba2..295b999  master -> master
+**********successful********************************************
+*********Begin the (428) times commit*****************************
