@@ -12352,3 +12352,9 @@ To git@github.com:embpgp/gitfub.git
    0fc416a..d9341da  master -> master
 **********successful********************************************
 *********Begin the (12) times commit*****************************
+[master ea5c963] the 12 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   d9341da..ea5c963  master -> master
+**********successful********************************************
+*********Begin the (13) times commit*****************************
