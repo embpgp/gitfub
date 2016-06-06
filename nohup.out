@@ -22194,3 +22194,9 @@ To git@github.com:embpgp/gitfub.git
    f20ff34..cff97cc  master -> master
 **********successful********************************************
 *********Begin the (627) times commit*****************************
+[master dfe2392] the 627 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   cff97cc..dfe2392  master -> master
+**********successful********************************************
+*********Begin the (628) times commit*****************************
