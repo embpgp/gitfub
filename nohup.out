@@ -107,3 +107,12 @@ Please make sure you have the correct access rights
 and the repository exists.
 **********successful********************************************
 *********Begin the (4) times commit*****************************
+[master 280ea07] the 4 times commit
+ 2 files changed, 11 insertions(+), 1 deletion(-)
+Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+**********successful********************************************
+*********Begin the (5) times commit*****************************
