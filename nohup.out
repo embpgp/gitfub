@@ -6082,3 +6082,9 @@ To git@github.com:embpgp/gitfub.git
    42dfc52..bd2a58a  master -> master
 **********successful********************************************
 *********Begin the (1015) times commit*****************************
+[master d8020c0] the 1015 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   bd2a58a..d8020c0  master -> master
+**********successful********************************************
+*********Begin the (1016) times commit*****************************
