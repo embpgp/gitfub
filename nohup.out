@@ -12280,3 +12280,9 @@ To git@github.com:embpgp/gitfub.git
    6337666..329ddfc  master -> master
 **********successful********************************************
 *********Begin the (0) times commit*****************************
+[master ee8b086] the 0 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   329ddfc..ee8b086  master -> master
+**********successful********************************************
+*********Begin the (1) times commit*****************************
