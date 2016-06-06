@@ -17940,3 +17940,9 @@ To git@github.com:embpgp/gitfub.git
    40e8d38..b64cbf3  master -> master
 **********successful********************************************
 *********Begin the (942) times commit*****************************
+[master dfb1209] the 942 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   b64cbf3..dfb1209  master -> master
+**********successful********************************************
+*********Begin the (943) times commit*****************************
