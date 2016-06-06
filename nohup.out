@@ -12184,3 +12184,9 @@ To git@github.com:embpgp/gitfub.git
    0485685..74d4120  master -> master
 **********successful********************************************
 *********Begin the (1008) times commit*****************************
+[master 181deec] the 1008 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   74d4120..181deec  master -> master
+**********successful********************************************
+*********Begin the (1009) times commit*****************************
