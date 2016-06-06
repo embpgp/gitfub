@@ -19182,3 +19182,9 @@ To git@github.com:embpgp/gitfub.git
    dfc58db..e70795d  master -> master
 **********successful********************************************
 *********Begin the (125) times commit*****************************
+[master 76eeeab] the 125 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   e70795d..76eeeab  master -> master
+**********successful********************************************
+*********Begin the (126) times commit*****************************
