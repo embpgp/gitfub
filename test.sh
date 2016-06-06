@@ -2,6 +2,10 @@
 #
 # Linux shell fUKK the github
 # 
+# First you must hava a remote repository in your github by ssh
+#
+# Then your local PC must git remote it
+#
 # Copyright (C) 2016 embpgp
 #
 # GPL
@@ -26,7 +30,6 @@ commit(){
 
 #the nahap log
 nohap="nohap.out"
-echo $nohap
 value=0   #count the times
 while true
 do
@@ -38,7 +41,7 @@ do
 		value=0
 		if [ -f $nohap ] 
 			then
-			echo  > $nohap  #flush the log
+			echo "" > $nohap  #flush the log
 		fi
 	fi
 	sleep 5
