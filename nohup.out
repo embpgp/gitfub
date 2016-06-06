@@ -12712,3 +12712,9 @@ To git@github.com:embpgp/gitfub.git
    2f28a21..a5de27f  master -> master
 **********successful********************************************
 *********Begin the (72) times commit*****************************
+[master 0862cb3] the 72 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   a5de27f..0862cb3  master -> master
+**********successful********************************************
+*********Begin the (73) times commit*****************************
