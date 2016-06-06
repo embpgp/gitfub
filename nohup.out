@@ -440,3 +440,9 @@ To git@github.com:embpgp/gitfub.git
    8e21fcc..26ec13d  master -> master
 **********successful********************************************
 *********Begin the (73) times commit*****************************
+[master 8faa8b4] the 73 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   26ec13d..8faa8b4  master -> master
+**********successful********************************************
+*********Begin the (74) times commit*****************************
