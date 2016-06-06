@@ -320,3 +320,9 @@ To git@github.com:embpgp/gitfub.git
    737ed4c..a4ddf98  master -> master
 **********successful********************************************
 *********Begin the (53) times commit*****************************
+[master ffcd305] the 53 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   a4ddf98..ffcd305  master -> master
+**********successful********************************************
+*********Begin the (54) times commit*****************************
