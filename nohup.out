@@ -712,3 +712,9 @@ To git@github.com:embpgp/gitfub.git
    ddcf011..801e39d  master -> master
 **********successful********************************************
 *********Begin the (120) times commit*****************************
+[master 02a9183] the 120 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   801e39d..02a9183  master -> master
+**********successful********************************************
+*********Begin the (121) times commit*****************************
