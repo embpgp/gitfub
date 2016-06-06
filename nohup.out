@@ -16468,3 +16468,9 @@ To git@github.com:embpgp/gitfub.git
    be2a280..fcc9201  master -> master
 **********successful********************************************
 *********Begin the (698) times commit*****************************
+[master a9666d0] the 698 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   fcc9201..a9666d0  master -> master
+**********successful********************************************
+*********Begin the (699) times commit*****************************
