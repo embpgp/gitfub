@@ -428,3 +428,9 @@ To git@github.com:embpgp/gitfub.git
    ad59174..cf1ca40  master -> master
 **********successful********************************************
 *********Begin the (71) times commit*****************************
+[master 8e21fcc] the 71 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   cf1ca40..8e21fcc  master -> master
+**********successful********************************************
+*********Begin the (72) times commit*****************************
