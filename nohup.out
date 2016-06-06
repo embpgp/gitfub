@@ -542,3 +542,10 @@ To git@github.com:embpgp/gitfub.git
    28de37c..15a48d9  master -> master
 **********successful********************************************
 *********Begin the (90) times commit*****************************
+[master abef5e6] the 90 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   15a48d9..abef5e6  master -> master
+**********successful********************************************
+*********Begin the (91) times commit*****************************
+./test.sh: 27: ./test.sh: Syntax error: "}" unexpected

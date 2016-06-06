@@ -22,20 +22,23 @@ commit(){
 	echo "**********successful********************************************"
 }
 
+	
+
+#the nahap log
 nohap.out="./nohap.out"
-value=0
+value=0   #count the times
 while true
 do
-commit $value   #call the function
-value=`expr $value + 1`
-echo $value > ./fUKK.txt #change the file 
-if [ $value -eq $1 ]
-then
-value=0
-if [ -f $nohap.out ]
-then
-echo > $nohap.out
-fi
-fi
-sleep 5
+	commit $value   #call the function
+	value=`expr $value + 1`
+	echo $value > ./fUKK.txt  #change the file ,make the git status change
+	if [ $value -eq $1 ]   #after a loop times 
+		then
+		value=0
+		if [ -f $nohap.out ] 
+			then
+			echo > $nohap.out #flush the log
+		fi
+	fi
+	sleep 5
 done
