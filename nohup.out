@@ -520,3 +520,9 @@ To git@github.com:embpgp/gitfub.git
    e7b9b3c..886bf5b  master -> master
 **********successful********************************************
 *********Begin the (88) times commit*****************************
+[master 0ed9b22] the 88 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   886bf5b..0ed9b22  master -> master
+**********successful********************************************
+*********Begin the (89) times commit*****************************
