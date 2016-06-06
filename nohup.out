@@ -13024,3 +13024,9 @@ To git@github.com:embpgp/gitfub.git
    52ad406..04e0b77  master -> master
 **********successful********************************************
 *********Begin the (124) times commit*****************************
+[master 1db06ea] the 124 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   04e0b77..1db06ea  master -> master
+**********successful********************************************
+*********Begin the (125) times commit*****************************
