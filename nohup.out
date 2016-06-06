@@ -11560,3 +11560,9 @@ To git@github.com:embpgp/gitfub.git
    4aa104a..db2a89b  master -> master
 **********successful********************************************
 *********Begin the (904) times commit*****************************
+[master 4bbf844] the 904 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   db2a89b..4bbf844  master -> master
+**********successful********************************************
+*********Begin the (905) times commit*****************************
