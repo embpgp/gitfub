@@ -36741,3 +36741,9 @@ To git@github.com:embpgp/gitfub.git
    de001ed..b9b69a6  master -> master
 **********successful********************************************
 *********Begin the (999) times commit*****************************
+[master 8f1776e] the 999 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   b9b69a6..8f1776e  master -> master
+**********successful********************************************
+*********Begin the (1000) times commit*****************************
