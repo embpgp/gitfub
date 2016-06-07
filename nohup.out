@@ -34755,3 +34755,9 @@ To git@github.com:embpgp/gitfub.git
    cfd9998..da56886  master -> master
 **********successful********************************************
 *********Begin the (672) times commit*****************************
+[master c8803c0] the 672 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   da56886..c8803c0  master -> master
+**********successful********************************************
+*********Begin the (673) times commit*****************************
