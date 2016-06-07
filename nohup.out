@@ -45351,3 +45351,9 @@ To git@github.com:embpgp/gitfub.git
    def74b1..bed2e29  master -> master
 **********successful********************************************
 *********Begin the (386) times commit*****************************
+[master 4ac0284] the 386 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   bed2e29..4ac0284  master -> master
+**********successful********************************************
+*********Begin the (387) times commit*****************************
