@@ -40611,3 +40611,9 @@ To git@github.com:embpgp/gitfub.git
    ecb832e..adfa887  master -> master
 **********successful********************************************
 *********Begin the (620) times commit*****************************
+[master 2e7341e] the 620 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   adfa887..2e7341e  master -> master
+**********successful********************************************
+*********Begin the (621) times commit*****************************
