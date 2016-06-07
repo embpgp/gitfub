@@ -47025,3 +47025,9 @@ To git@github.com:embpgp/gitfub.git
    fdec40c..afad404  master -> master
 **********successful********************************************
 *********Begin the (665) times commit*****************************
+[master ea585a9] the 665 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   afad404..ea585a9  master -> master
+**********successful********************************************
+*********Begin the (666) times commit*****************************
