@@ -31320,3 +31320,9 @@ To git@github.com:embpgp/gitfub.git
    b5057d3..5177ec8  master -> master
 **********successful********************************************
 *********Begin the (100) times commit*****************************
+[master 676f54a] the 100 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   5177ec8..676f54a  master -> master
+**********successful********************************************
+*********Begin the (101) times commit*****************************
