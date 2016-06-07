@@ -31302,3 +31302,9 @@ To git@github.com:embpgp/gitfub.git
    54c152a..c4f9165  master -> master
 **********successful********************************************
 *********Begin the (97) times commit*****************************
+[master 4a776a9] the 97 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   c4f9165..4a776a9  master -> master
+**********successful********************************************
+*********Begin the (98) times commit*****************************
