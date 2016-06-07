@@ -34323,3 +34323,9 @@ To git@github.com:embpgp/gitfub.git
    216aa63..f7368af  master -> master
 **********successful********************************************
 *********Begin the (600) times commit*****************************
+[master 13e1401] the 600 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   f7368af..13e1401  master -> master
+**********successful********************************************
+*********Begin the (601) times commit*****************************
