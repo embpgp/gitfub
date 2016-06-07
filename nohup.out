@@ -37629,3 +37629,9 @@ To git@github.com:embpgp/gitfub.git
    adc2830..baaa624  master -> master
 **********successful********************************************
 *********Begin the (123) times commit*****************************
+[master c5268f5] the 123 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   baaa624..c5268f5  master -> master
+**********successful********************************************
+*********Begin the (124) times commit*****************************
