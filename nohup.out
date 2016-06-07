@@ -49333,3 +49333,9 @@ To git@github.com:embpgp/gitfub.git
    605eaad..784e543  master -> master
 **********successful********************************************
 *********Begin the (25) times commit*****************************
+[master aa2133b] the 25 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   784e543..aa2133b  master -> master
+**********successful********************************************
+*********Begin the (26) times commit*****************************
