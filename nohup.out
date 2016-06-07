@@ -50041,3 +50041,9 @@ To git@github.com:embpgp/gitfub.git
    ff3223b..aaacea5  master -> master
 **********successful********************************************
 *********Begin the (143) times commit*****************************
+[master 46144b2] the 143 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   aaacea5..46144b2  master -> master
+**********successful********************************************
+*********Begin the (144) times commit*****************************
