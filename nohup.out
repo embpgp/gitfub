@@ -39123,3 +39123,9 @@ To git@github.com:embpgp/gitfub.git
    cae00c3..7eb1820  master -> master
 **********successful********************************************
 *********Begin the (372) times commit*****************************
+[master f3ca044] the 372 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   7eb1820..f3ca044  master -> master
+**********successful********************************************
+*********Begin the (373) times commit*****************************
