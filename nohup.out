@@ -38043,3 +38043,9 @@ To git@github.com:embpgp/gitfub.git
    b9747fb..cdf9738  master -> master
 **********successful********************************************
 *********Begin the (192) times commit*****************************
+[master 06af910] the 192 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   cdf9738..06af910  master -> master
+**********successful********************************************
+*********Begin the (193) times commit*****************************
