@@ -43419,3 +43419,9 @@ To git@github.com:embpgp/gitfub.git
    c0eed45..3b2cade  master -> master
 **********successful********************************************
 *********Begin the (64) times commit*****************************
+[master 758b0df] the 64 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   3b2cade..758b0df  master -> master
+**********successful********************************************
+*********Begin the (65) times commit*****************************
