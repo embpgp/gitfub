@@ -32508,3 +32508,9 @@ To git@github.com:embpgp/gitfub.git
    bb1278e..df2ba06  master -> master
 **********successful********************************************
 *********Begin the (298) times commit*****************************
+[master 521284a] the 298 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   df2ba06..521284a  master -> master
+**********successful********************************************
+*********Begin the (299) times commit*****************************
