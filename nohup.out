@@ -29928,3 +29928,9 @@ To git@github.com:embpgp/gitfub.git
    cebcf21..cca9526  master -> master
 **********successful********************************************
 *********Begin the (892) times commit*****************************
+[master 60d573a] the 892 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   cca9526..60d573a  master -> master
+**********successful********************************************
+*********Begin the (893) times commit*****************************
