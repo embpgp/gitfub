@@ -43053,3 +43053,9 @@ To git@github.com:embpgp/gitfub.git
    7270f15..de0c9fc  master -> master
 **********successful********************************************
 *********Begin the (3) times commit*****************************
+[master ace1590] the 3 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   de0c9fc..ace1590  master -> master
+**********successful********************************************
+*********Begin the (4) times commit*****************************
