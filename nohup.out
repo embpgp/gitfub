@@ -49039,3 +49039,9 @@ To git@github.com:embpgp/gitfub.git
    91035c2..f20d910  master -> master
 **********successful********************************************
 *********Begin the (1000) times commit*****************************
+[master 26e6535] the 1000 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   f20d910..26e6535  master -> master
+**********successful********************************************
+*********Begin the (1001) times commit*****************************
