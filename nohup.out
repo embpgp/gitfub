@@ -33264,3 +33264,12 @@ To git@github.com:embpgp/gitfub.git
    2bb60ef..27be299  master -> master
 **********successful********************************************
 *********Begin the (424) times commit*****************************
+[master 6c6a471] the 424 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+ssh: Could not resolve hostname github.com: Temporary failure in name resolution
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+**********successful********************************************
+*********Begin the (425) times commit*****************************
