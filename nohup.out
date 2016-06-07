@@ -31020,3 +31020,9 @@ To git@github.com:embpgp/gitfub.git
    4f35ff0..c49a5b8  master -> master
 **********successful********************************************
 *********Begin the (50) times commit*****************************
+[master 1905def] the 50 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   c49a5b8..1905def  master -> master
+**********successful********************************************
+*********Begin the (51) times commit*****************************
