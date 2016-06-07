@@ -49183,3 +49183,9 @@ To git@github.com:embpgp/gitfub.git
    6633a08..7ac48c4  master -> master
 **********successful********************************************
 *********Begin the (0) times commit*****************************
+[master 8f36b77] the 0 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   7ac48c4..8f36b77  master -> master
+**********successful********************************************
+*********Begin the (1) times commit*****************************
