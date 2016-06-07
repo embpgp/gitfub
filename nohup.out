@@ -31170,3 +31170,9 @@ To git@github.com:embpgp/gitfub.git
    ed6a032..cfea102  master -> master
 **********successful********************************************
 *********Begin the (75) times commit*****************************
+[master cd81034] the 75 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   cfea102..cd81034  master -> master
+**********successful********************************************
+*********Begin the (76) times commit*****************************
