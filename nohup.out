@@ -34077,3 +34077,9 @@ To git@github.com:embpgp/gitfub.git
    fcde2cd..a86bf7b  master -> master
 **********successful********************************************
 *********Begin the (559) times commit*****************************
+[master ada7489] the 559 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   a86bf7b..ada7489  master -> master
+**********successful********************************************
+*********Begin the (560) times commit*****************************
