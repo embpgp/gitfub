@@ -51469,3 +51469,9 @@ To git@github.com:embpgp/gitfub.git
    9469133..c2af306  master -> master
 **********successful********************************************
 *********Begin the (381) times commit*****************************
+[master cd3ccf6] the 381 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   c2af306..cd3ccf6  master -> master
+**********successful********************************************
+*********Begin the (382) times commit*****************************
