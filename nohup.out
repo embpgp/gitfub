@@ -47250,3 +47250,9 @@ To git@github.com:embpgp/gitfub.git
    d05a195..321549d  master -> master
 **********successful********************************************
 *********Begin the (702) times commit*****************************
+[master d275950] the 702 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   321549d..d275950  master -> master
+**********successful********************************************
+*********Begin the (703) times commit*****************************
