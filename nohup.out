@@ -44079,3 +44079,9 @@ To git@github.com:embpgp/gitfub.git
    da1db5d..27fbc41  master -> master
 **********successful********************************************
 *********Begin the (174) times commit*****************************
+[master 80e34de] the 174 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   27fbc41..80e34de  master -> master
+**********successful********************************************
+*********Begin the (175) times commit*****************************
