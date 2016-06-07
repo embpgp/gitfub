@@ -37311,3 +37311,9 @@ To git@github.com:embpgp/gitfub.git
    d37270d..1b2aacf  master -> master
 **********successful********************************************
 *********Begin the (70) times commit*****************************
+[master 55714ff] the 70 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   1b2aacf..55714ff  master -> master
+**********successful********************************************
+*********Begin the (71) times commit*****************************
