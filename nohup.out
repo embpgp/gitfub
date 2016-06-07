@@ -49243,3 +49243,9 @@ To git@github.com:embpgp/gitfub.git
    62e503e..d8d8608  master -> master
 **********successful********************************************
 *********Begin the (10) times commit*****************************
+[master e7d0341] the 10 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   d8d8608..e7d0341  master -> master
+**********successful********************************************
+*********Begin the (11) times commit*****************************
