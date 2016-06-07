@@ -31242,3 +31242,9 @@ To git@github.com:embpgp/gitfub.git
    faee666..522ae3a  master -> master
 **********successful********************************************
 *********Begin the (87) times commit*****************************
+[master f84382e] the 87 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   522ae3a..f84382e  master -> master
+**********successful********************************************
+*********Begin the (88) times commit*****************************
