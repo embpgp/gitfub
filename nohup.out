@@ -31350,3 +31350,9 @@ To git@github.com:embpgp/gitfub.git
    1cc2259..7873940  master -> master
 **********successful********************************************
 *********Begin the (105) times commit*****************************
+[master 3796fe7] the 105 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   7873940..3796fe7  master -> master
+**********successful********************************************
+*********Begin the (106) times commit*****************************
