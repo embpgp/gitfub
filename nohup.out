@@ -48445,3 +48445,9 @@ To git@github.com:embpgp/gitfub.git
    6ceed26..d8167d4  master -> master
 **********successful********************************************
 *********Begin the (901) times commit*****************************
+[master cdc9436] the 901 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   d8167d4..cdc9436  master -> master
+**********successful********************************************
+*********Begin the (902) times commit*****************************
