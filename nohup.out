@@ -30612,3 +30612,9 @@ To git@github.com:embpgp/gitfub.git
    b2000a3..43e138a  master -> master
 **********successful********************************************
 *********Begin the (1006) times commit*****************************
+[master 51d40d6] the 1006 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   43e138a..51d40d6  master -> master
+**********successful********************************************
+*********Begin the (1007) times commit*****************************
