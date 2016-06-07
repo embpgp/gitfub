@@ -36627,3 +36627,9 @@ To git@github.com:embpgp/gitfub.git
    75be9bd..38a1a21  master -> master
 **********successful********************************************
 *********Begin the (980) times commit*****************************
+[master d34c6ee] the 980 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   38a1a21..d34c6ee  master -> master
+**********successful********************************************
+*********Begin the (981) times commit*****************************
