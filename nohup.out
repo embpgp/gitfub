@@ -38733,3 +38733,9 @@ To git@github.com:embpgp/gitfub.git
    adfec74..de3589c  master -> master
 **********successful********************************************
 *********Begin the (307) times commit*****************************
+[master bb4a1d0] the 307 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   de3589c..bb4a1d0  master -> master
+**********successful********************************************
+*********Begin the (308) times commit*****************************
