@@ -48042,3 +48042,10 @@ To git@github.com:embpgp/gitfub.git
    8493ad4..f2c0978  master -> master
 **********successful********************************************
 *********Begin the (834) times commit*****************************
+[master 1bd39d0] the 834 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+packet_write_wait: Connection to 192.30.252.122 port 22: Broken pipe
+fatal: The remote end hung up unexpectedly
+fatal: The remote end hung up unexpectedly
+**********successful********************************************
+*********Begin the (835) times commit*****************************
