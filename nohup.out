@@ -31026,3 +31026,9 @@ To git@github.com:embpgp/gitfub.git
    c49a5b8..1905def  master -> master
 **********successful********************************************
 *********Begin the (51) times commit*****************************
+[master e83ac29] the 51 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   1905def..e83ac29  master -> master
+**********successful********************************************
+*********Begin the (52) times commit*****************************
