@@ -49153,3 +49153,9 @@ To git@github.com:embpgp/gitfub.git
    d3a24e8..ad7cdfd  master -> master
 **********successful********************************************
 *********Begin the (1019) times commit*****************************
+[master 7f15eb4] the 1019 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   ad7cdfd..7f15eb4  master -> master
+**********successful********************************************
+*********Begin the (1020) times commit*****************************
