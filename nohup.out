@@ -50011,3 +50011,9 @@ To git@github.com:embpgp/gitfub.git
    8baf9d4..bd2dc26  master -> master
 **********successful********************************************
 *********Begin the (138) times commit*****************************
+[master 1f64713] the 138 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   bd2dc26..1f64713  master -> master
+**********successful********************************************
+*********Begin the (139) times commit*****************************
