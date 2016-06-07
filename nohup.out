@@ -30630,3 +30630,9 @@ To git@github.com:embpgp/gitfub.git
    2d70eb4..d81d757  master -> master
 **********successful********************************************
 *********Begin the (1009) times commit*****************************
+[master 6bcdf25] the 1009 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   d81d757..6bcdf25  master -> master
+**********successful********************************************
+*********Begin the (1010) times commit*****************************
