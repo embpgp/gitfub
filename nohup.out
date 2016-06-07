@@ -40095,3 +40095,9 @@ To git@github.com:embpgp/gitfub.git
    c7938fc..94ecc77  master -> master
 **********successful********************************************
 *********Begin the (534) times commit*****************************
+[master fbc598b] the 534 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   94ecc77..fbc598b  master -> master
+**********successful********************************************
+*********Begin the (535) times commit*****************************
