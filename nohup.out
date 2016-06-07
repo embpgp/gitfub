@@ -36315,3 +36315,9 @@ To git@github.com:embpgp/gitfub.git
    e1703c5..0adfcdb  master -> master
 **********successful********************************************
 *********Begin the (928) times commit*****************************
+[master c1c898a] the 928 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   0adfcdb..c1c898a  master -> master
+**********successful********************************************
+*********Begin the (929) times commit*****************************
