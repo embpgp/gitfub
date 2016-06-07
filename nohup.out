@@ -40599,3 +40599,9 @@ To git@github.com:embpgp/gitfub.git
    fc19a31..dcc5045  master -> master
 **********successful********************************************
 *********Begin the (618) times commit*****************************
+[master ecb832e] the 618 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   dcc5045..ecb832e  master -> master
+**********successful********************************************
+*********Begin the (619) times commit*****************************
