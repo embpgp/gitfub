@@ -30690,3 +30690,9 @@ To git@github.com:embpgp/gitfub.git
    672eb57..11807b9  master -> master
 **********successful********************************************
 *********Begin the (1019) times commit*****************************
+[master 8efca72] the 1019 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   11807b9..8efca72  master -> master
+**********successful********************************************
+*********Begin the (1020) times commit*****************************
