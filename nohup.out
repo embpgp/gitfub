@@ -31632,3 +31632,9 @@ To git@github.com:embpgp/gitfub.git
    d3381a8..b7dd765  master -> master
 **********successful********************************************
 *********Begin the (152) times commit*****************************
+[master 3d3db50] the 152 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   b7dd765..3d3db50  master -> master
+**********successful********************************************
+*********Begin the (153) times commit*****************************
