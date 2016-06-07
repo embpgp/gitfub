@@ -29106,3 +29106,9 @@ To git@github.com:embpgp/gitfub.git
    6e00e85..56ac30e  master -> master
 **********successful********************************************
 *********Begin the (755) times commit*****************************
+[master 60a3282] the 755 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   56ac30e..60a3282  master -> master
+**********successful********************************************
+*********Begin the (756) times commit*****************************
