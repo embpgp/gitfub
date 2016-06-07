@@ -37479,3 +37479,9 @@ To git@github.com:embpgp/gitfub.git
    f60c8de..888fa0d  master -> master
 **********successful********************************************
 *********Begin the (98) times commit*****************************
+[master 53a581a] the 98 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   888fa0d..53a581a  master -> master
+**********successful********************************************
+*********Begin the (99) times commit*****************************
