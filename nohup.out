@@ -49783,3 +49783,9 @@ To git@github.com:embpgp/gitfub.git
    fe94693..16523d1  master -> master
 **********successful********************************************
 *********Begin the (100) times commit*****************************
+[master 0893940] the 100 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   16523d1..0893940  master -> master
+**********successful********************************************
+*********Begin the (101) times commit*****************************
