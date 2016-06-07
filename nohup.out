@@ -31050,3 +31050,9 @@ To git@github.com:embpgp/gitfub.git
    17af616..703c609  master -> master
 **********successful********************************************
 *********Begin the (55) times commit*****************************
+[master 346e5c2] the 55 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   703c609..346e5c2  master -> master
+**********successful********************************************
+*********Begin the (56) times commit*****************************
