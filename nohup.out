@@ -43623,3 +43623,9 @@ To git@github.com:embpgp/gitfub.git
    757c0ed..db3e658  master -> master
 **********successful********************************************
 *********Begin the (98) times commit*****************************
+[master debfd21] the 98 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   db3e658..debfd21  master -> master
+**********successful********************************************
+*********Begin the (99) times commit*****************************
