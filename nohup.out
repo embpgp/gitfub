@@ -39105,3 +39105,9 @@ To git@github.com:embpgp/gitfub.git
    b53ca19..31add19  master -> master
 **********successful********************************************
 *********Begin the (369) times commit*****************************
+[master 4d1d85a] the 369 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   31add19..4d1d85a  master -> master
+**********successful********************************************
+*********Begin the (370) times commit*****************************
