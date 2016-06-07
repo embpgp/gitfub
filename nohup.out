@@ -42645,3 +42645,9 @@ To git@github.com:embpgp/gitfub.git
    cae5458..cfd2097  master -> master
 **********successful********************************************
 *********Begin the (959) times commit*****************************
+[master 057e1ce] the 959 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   cfd2097..057e1ce  master -> master
+**********successful********************************************
+*********Begin the (960) times commit*****************************
