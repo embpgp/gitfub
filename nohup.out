@@ -73717,3 +73717,9 @@ To git@github.com:embpgp/gitfub.git
    dad8828..6453220  master -> master
 **********successful********************************************
 *********Begin the (1016) times commit*****************************
+[master 6895334] the 1016 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   6453220..6895334  master -> master
+**********successful********************************************
+*********Begin the (1017) times commit*****************************
