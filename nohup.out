@@ -67690,3 +67690,9 @@ To git@github.com:embpgp/gitfub.git
    ae7f581..dbfe0a4  master -> master
 **********successful********************************************
 *********Begin the (12) times commit*****************************
+[master e728302] the 12 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   dbfe0a4..e728302  master -> master
+**********successful********************************************
+*********Begin the (13) times commit*****************************
