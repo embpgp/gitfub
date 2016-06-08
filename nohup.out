@@ -66712,3 +66712,9 @@ To git@github.com:embpgp/gitfub.git
    a83a848..fb91c99  master -> master
 **********successful********************************************
 *********Begin the (873) times commit*****************************
+[master 7127a92] the 873 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   fb91c99..7127a92  master -> master
+**********successful********************************************
+*********Begin the (874) times commit*****************************
