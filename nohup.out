@@ -73999,3 +73999,9 @@ To git@github.com:embpgp/gitfub.git
    d98e804..c82bb27  master -> master
 **********successful********************************************
 *********Begin the (39) times commit*****************************
+[master 2002dfa] the 39 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   c82bb27..2002dfa  master -> master
+**********successful********************************************
+*********Begin the (40) times commit*****************************
