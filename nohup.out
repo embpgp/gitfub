@@ -62074,3 +62074,9 @@ To git@github.com:embpgp/gitfub.git
    a0864a1..ba23a4d  master -> master
 **********successful********************************************
 *********Begin the (100) times commit*****************************
+[master 50246d7] the 100 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   ba23a4d..50246d7  master -> master
+**********successful********************************************
+*********Begin the (101) times commit*****************************
