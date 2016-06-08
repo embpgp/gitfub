@@ -55399,3 +55399,9 @@ To git@github.com:embpgp/gitfub.git
    d17a8a2..8171fee  master -> master
 **********successful********************************************
 *********Begin the (12) times commit*****************************
+[master d2ccdca] the 12 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   8171fee..d2ccdca  master -> master
+**********successful********************************************
+*********Begin the (13) times commit*****************************
