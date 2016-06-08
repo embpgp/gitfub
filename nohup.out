@@ -55927,3 +55927,9 @@ To git@github.com:embpgp/gitfub.git
    db6c985..026d7b3  master -> master
 **********successful********************************************
 *********Begin the (100) times commit*****************************
+[master a14f4c5] the 100 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   026d7b3..a14f4c5  master -> master
+**********successful********************************************
+*********Begin the (101) times commit*****************************
