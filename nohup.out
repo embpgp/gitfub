@@ -56155,3 +56155,9 @@ To git@github.com:embpgp/gitfub.git
    a00f537..6a70101  master -> master
 **********successful********************************************
 *********Begin the (138) times commit*****************************
+[master 20a1814] the 138 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   6a70101..20a1814  master -> master
+**********successful********************************************
+*********Begin the (139) times commit*****************************
