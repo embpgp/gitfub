@@ -67234,3 +67234,9 @@ To git@github.com:embpgp/gitfub.git
    e456f04..afdfc30  master -> master
 **********successful********************************************
 *********Begin the (960) times commit*****************************
+[master 4895f76] the 960 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   afdfc30..4895f76  master -> master
+**********successful********************************************
+*********Begin the (961) times commit*****************************
