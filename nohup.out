@@ -74371,3 +74371,9 @@ To git@github.com:embpgp/gitfub.git
    ab88dc7..b1f0197  master -> master
 **********successful********************************************
 *********Begin the (101) times commit*****************************
+[master f710cab] the 101 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   b1f0197..f710cab  master -> master
+**********successful********************************************
+*********Begin the (102) times commit*****************************
