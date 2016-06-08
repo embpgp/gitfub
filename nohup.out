@@ -61978,3 +61978,9 @@ To git@github.com:embpgp/gitfub.git
    9005512..ddf24bf  master -> master
 **********successful********************************************
 *********Begin the (84) times commit*****************************
+[master dce9054] the 84 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   ddf24bf..dce9054  master -> master
+**********successful********************************************
+*********Begin the (85) times commit*****************************
