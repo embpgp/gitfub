@@ -73951,3 +73951,9 @@ To git@github.com:embpgp/gitfub.git
    9b9f461..6e6feed  master -> master
 **********successful********************************************
 *********Begin the (31) times commit*****************************
+[master 72a7503] the 31 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   6e6feed..72a7503  master -> master
+**********successful********************************************
+*********Begin the (32) times commit*****************************
