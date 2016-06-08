@@ -61528,3 +61528,9 @@ To git@github.com:embpgp/gitfub.git
    cafe2ba..d2fb3d4  master -> master
 **********successful********************************************
 *********Begin the (9) times commit*****************************
+[master 0fe645f] the 9 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   d2fb3d4..0fe645f  master -> master
+**********successful********************************************
+*********Begin the (10) times commit*****************************
