@@ -81781,3 +81781,9 @@ To git@github.com:embpgp/gitfub.git
    dca3cbc..aebc0f2  master -> master
 **********successful********************************************
 *********Begin the (312) times commit*****************************
+[master e3ac17c] the 312 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   aebc0f2..e3ac17c  master -> master
+**********successful********************************************
+*********Begin the (313) times commit*****************************
