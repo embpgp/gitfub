@@ -80143,3 +80143,9 @@ To git@github.com:embpgp/gitfub.git
    f192f42..dbcbaae  master -> master
 **********successful********************************************
 *********Begin the (39) times commit*****************************
+[master 1fc8c91] the 39 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   dbcbaae..1fc8c91  master -> master
+**********successful********************************************
+*********Begin the (40) times commit*****************************
