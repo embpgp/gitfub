@@ -64900,3 +64900,9 @@ To git@github.com:embpgp/gitfub.git
    f890685..800b002  master -> master
 **********successful********************************************
 *********Begin the (571) times commit*****************************
+[master cdb3a7d] the 571 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   800b002..cdb3a7d  master -> master
+**********successful********************************************
+*********Begin the (572) times commit*****************************
