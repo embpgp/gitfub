@@ -70438,3 +70438,9 @@ To git@github.com:embpgp/gitfub.git
    479c118..e3ce082  master -> master
 **********successful********************************************
 *********Begin the (470) times commit*****************************
+[master 2b7800c] the 470 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   e3ce082..2b7800c  master -> master
+**********successful********************************************
+*********Begin the (471) times commit*****************************
