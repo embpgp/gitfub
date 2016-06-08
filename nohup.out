@@ -75589,3 +75589,9 @@ To git@github.com:embpgp/gitfub.git
    3847184..2db1dfb  master -> master
 **********successful********************************************
 *********Begin the (304) times commit*****************************
+[master af7170b] the 304 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   2db1dfb..af7170b  master -> master
+**********successful********************************************
+*********Begin the (305) times commit*****************************
