@@ -67750,3 +67750,9 @@ To git@github.com:embpgp/gitfub.git
    f1dd6dd..e00ac07  master -> master
 **********successful********************************************
 *********Begin the (22) times commit*****************************
+[master 39ba7da] the 22 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   e00ac07..39ba7da  master -> master
+**********successful********************************************
+*********Begin the (23) times commit*****************************
