@@ -74125,3 +74125,9 @@ To git@github.com:embpgp/gitfub.git
    1dfc509..932c115  master -> master
 **********successful********************************************
 *********Begin the (60) times commit*****************************
+[master 261104d] the 60 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   932c115..261104d  master -> master
+**********successful********************************************
+*********Begin the (61) times commit*****************************
