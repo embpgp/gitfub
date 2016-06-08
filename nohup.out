@@ -79837,3 +79837,9 @@ To git@github.com:embpgp/gitfub.git
    c8e21ea..1b174dd  master -> master
 **********successful********************************************
 *********Begin the (1012) times commit*****************************
+[master bbdaacc] the 1012 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   1b174dd..bbdaacc  master -> master
+**********successful********************************************
+*********Begin the (1013) times commit*****************************
