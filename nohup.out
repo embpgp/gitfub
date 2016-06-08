@@ -71485,3 +71485,9 @@ To git@github.com:embpgp/gitfub.git
    49ad819..4b44705  master -> master
 **********successful********************************************
 *********Begin the (644) times commit*****************************
+[master 9e51c20] the 644 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   4b44705..9e51c20  master -> master
+**********successful********************************************
+*********Begin the (645) times commit*****************************
