@@ -71026,3 +71026,12 @@ To git@github.com:embpgp/gitfub.git
    39dba88..f9ec228  master -> master
 **********successful********************************************
 *********Begin the (568) times commit*****************************
+[master ff28439] the 568 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+ssh: Could not resolve hostname github.com: Temporary failure in name resolution
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+**********successful********************************************
+*********Begin the (569) times commit*****************************
