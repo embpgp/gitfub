@@ -55177,3 +55177,9 @@ To git@github.com:embpgp/gitfub.git
    134ad64..a812063  master -> master
 **********successful********************************************
 *********Begin the (999) times commit*****************************
+[master 3560c02] the 999 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   a812063..3560c02  master -> master
+**********successful********************************************
+*********Begin the (1000) times commit*****************************
