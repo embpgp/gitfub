@@ -65722,3 +65722,9 @@ To git@github.com:embpgp/gitfub.git
    1a1f231..db9126f  master -> master
 **********successful********************************************
 *********Begin the (708) times commit*****************************
+[master 7c24bc3] the 708 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   db9126f..7c24bc3  master -> master
+**********successful********************************************
+*********Begin the (709) times commit*****************************
