@@ -55405,3 +55405,9 @@ To git@github.com:embpgp/gitfub.git
    8171fee..d2ccdca  master -> master
 **********successful********************************************
 *********Begin the (13) times commit*****************************
+[master c705252] the 13 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   d2ccdca..c705252  master -> master
+**********successful********************************************
+*********Begin the (14) times commit*****************************
