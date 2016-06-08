@@ -61480,3 +61480,9 @@ To git@github.com:embpgp/gitfub.git
    c177948..933001e  master -> master
 **********successful********************************************
 *********Begin the (1) times commit*****************************
+[master f335cf0] the 1 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   933001e..f335cf0  master -> master
+**********successful********************************************
+*********Begin the (2) times commit*****************************
