@@ -55219,3 +55219,9 @@ To git@github.com:embpgp/gitfub.git
    b5362d2..db310fa  master -> master
 **********successful********************************************
 *********Begin the (1006) times commit*****************************
+[master 18234a4] the 1006 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   db310fa..18234a4  master -> master
+**********successful********************************************
+*********Begin the (1007) times commit*****************************
