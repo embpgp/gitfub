@@ -65650,3 +65650,9 @@ To git@github.com:embpgp/gitfub.git
    700edb1..76b7af7  master -> master
 **********successful********************************************
 *********Begin the (696) times commit*****************************
+[master d70bf7c] the 696 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   76b7af7..d70bf7c  master -> master
+**********successful********************************************
+*********Begin the (697) times commit*****************************
