@@ -77905,3 +77905,9 @@ To git@github.com:embpgp/gitfub.git
    f09cbb5..7b6d0d0  master -> master
 **********successful********************************************
 *********Begin the (690) times commit*****************************
+[master 2179a06] the 690 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   7b6d0d0..2179a06  master -> master
+**********successful********************************************
+*********Begin the (691) times commit*****************************
