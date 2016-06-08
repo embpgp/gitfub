@@ -74773,3 +74773,9 @@ To git@github.com:embpgp/gitfub.git
    fde5f78..df2d500  master -> master
 **********successful********************************************
 *********Begin the (168) times commit*****************************
+[master 6088d28] the 168 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   df2d500..6088d28  master -> master
+**********successful********************************************
+*********Begin the (169) times commit*****************************
