@@ -64630,3 +64630,9 @@ To git@github.com:embpgp/gitfub.git
    00f2df3..4158601  master -> master
 **********successful********************************************
 *********Begin the (526) times commit*****************************
+[master 7c8966d] the 526 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   4158601..7c8966d  master -> master
+**********successful********************************************
+*********Begin the (527) times commit*****************************
