@@ -58927,3 +58927,9 @@ To git@github.com:embpgp/gitfub.git
    530928c..43d1acb  master -> master
 **********successful********************************************
 *********Begin the (600) times commit*****************************
+[master b42bafe] the 600 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   43d1acb..b42bafe  master -> master
+**********successful********************************************
+*********Begin the (601) times commit*****************************
