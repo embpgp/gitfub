@@ -83263,3 +83263,9 @@ To git@github.com:embpgp/gitfub.git
    765394d..4a20e2d  master -> master
 **********successful********************************************
 *********Begin the (559) times commit*****************************
+[master bcdbeef] the 559 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   4a20e2d..bcdbeef  master -> master
+**********successful********************************************
+*********Begin the (560) times commit*****************************
