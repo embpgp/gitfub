@@ -71059,3 +71059,9 @@ To git@github.com:embpgp/gitfub.git
    dbd08ab..e35eaa2  master -> master
 **********successful********************************************
 *********Begin the (573) times commit*****************************
+[master 689a733] the 573 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   e35eaa2..689a733  master -> master
+**********successful********************************************
+*********Begin the (574) times commit*****************************
