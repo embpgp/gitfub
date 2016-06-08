@@ -80377,3 +80377,9 @@ To git@github.com:embpgp/gitfub.git
    553b087..fc29980  master -> master
 **********successful********************************************
 *********Begin the (78) times commit*****************************
+[master fc86f1a] the 78 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   fc29980..fc86f1a  master -> master
+**********successful********************************************
+*********Begin the (79) times commit*****************************
