@@ -67912,3 +67912,9 @@ To git@github.com:embpgp/gitfub.git
    e67118d..b21026b  master -> master
 **********successful********************************************
 *********Begin the (49) times commit*****************************
+[master ceca454] the 49 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   b21026b..ceca454  master -> master
+**********successful********************************************
+*********Begin the (50) times commit*****************************
