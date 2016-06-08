@@ -80005,3 +80005,9 @@ To git@github.com:embpgp/gitfub.git
    6eabde5..3a0f143  master -> master
 **********successful********************************************
 *********Begin the (16) times commit*****************************
+[master a7d2f62] the 16 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   3a0f143..a7d2f62  master -> master
+**********successful********************************************
+*********Begin the (17) times commit*****************************
