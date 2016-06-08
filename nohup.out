@@ -76723,3 +76723,9 @@ To git@github.com:embpgp/gitfub.git
    1ece14d..5df10db  master -> master
 **********successful********************************************
 *********Begin the (493) times commit*****************************
+[master 3992f10] the 493 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   5df10db..3992f10  master -> master
+**********successful********************************************
+*********Begin the (494) times commit*****************************
