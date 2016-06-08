@@ -67528,3 +67528,9 @@ To git@github.com:embpgp/gitfub.git
    90ada3d..ebe0211  master -> master
 **********successful********************************************
 *********Begin the (1009) times commit*****************************
+[master e70cb0c] the 1009 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   ebe0211..e70cb0c  master -> master
+**********successful********************************************
+*********Begin the (1010) times commit*****************************
