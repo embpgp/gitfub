@@ -78193,3 +78193,9 @@ To git@github.com:embpgp/gitfub.git
    10193ca..baacf02  master -> master
 **********successful********************************************
 *********Begin the (738) times commit*****************************
+[master 28f726f] the 738 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   baacf02..28f726f  master -> master
+**********successful********************************************
+*********Begin the (739) times commit*****************************
