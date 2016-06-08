@@ -66310,3 +66310,9 @@ To git@github.com:embpgp/gitfub.git
    b06dfeb..805f345  master -> master
 **********successful********************************************
 *********Begin the (806) times commit*****************************
+[master 0e2961f] the 806 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   805f345..0e2961f  master -> master
+**********successful********************************************
+*********Begin the (807) times commit*****************************
