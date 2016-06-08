@@ -74011,3 +74011,9 @@ To git@github.com:embpgp/gitfub.git
    2002dfa..dd03714  master -> master
 **********successful********************************************
 *********Begin the (41) times commit*****************************
+[master 96224eb] the 41 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   dd03714..96224eb  master -> master
+**********successful********************************************
+*********Begin the (42) times commit*****************************
