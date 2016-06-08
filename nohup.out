@@ -79825,3 +79825,9 @@ To git@github.com:embpgp/gitfub.git
    2002a07..a019593  master -> master
 **********successful********************************************
 *********Begin the (1010) times commit*****************************
+[master c8e21ea] the 1010 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   a019593..c8e21ea  master -> master
+**********successful********************************************
+*********Begin the (1011) times commit*****************************
