@@ -55255,3 +55255,9 @@ To git@github.com:embpgp/gitfub.git
    51697b7..81102ce  master -> master
 **********successful********************************************
 *********Begin the (1012) times commit*****************************
+[master 5537923] the 1012 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   81102ce..5537923  master -> master
+**********successful********************************************
+*********Begin the (1013) times commit*****************************
