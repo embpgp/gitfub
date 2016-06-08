@@ -61600,3 +61600,9 @@ To git@github.com:embpgp/gitfub.git
    7f341ac..d06aff9  master -> master
 **********successful********************************************
 *********Begin the (21) times commit*****************************
+[master 143bad2] the 21 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   d06aff9..143bad2  master -> master
+**********successful********************************************
+*********Begin the (22) times commit*****************************
