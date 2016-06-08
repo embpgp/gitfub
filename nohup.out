@@ -79909,3 +79909,9 @@ To git@github.com:embpgp/gitfub.git
    7cd67d7..0c1ad51  master -> master
 **********successful********************************************
 *********Begin the (0) times commit*****************************
+[master 1f4d78f] the 0 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   0c1ad51..1f4d78f  master -> master
+**********successful********************************************
+*********Begin the (1) times commit*****************************
