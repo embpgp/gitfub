@@ -70918,3 +70918,9 @@ To git@github.com:embpgp/gitfub.git
    cf85d44..e05e715  master -> master
 **********successful********************************************
 *********Begin the (550) times commit*****************************
+[master 9d7a0e8] the 550 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   e05e715..9d7a0e8  master -> master
+**********successful********************************************
+*********Begin the (551) times commit*****************************
