@@ -77581,3 +77581,9 @@ To git@github.com:embpgp/gitfub.git
    7c59406..cdfe756  master -> master
 **********successful********************************************
 *********Begin the (636) times commit*****************************
+[master 024c0cc] the 636 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   cdfe756..024c0cc  master -> master
+**********successful********************************************
+*********Begin the (637) times commit*****************************
