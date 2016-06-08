@@ -74245,3 +74245,9 @@ To git@github.com:embpgp/gitfub.git
    1e72c94..f269ccb  master -> master
 **********successful********************************************
 *********Begin the (80) times commit*****************************
+[master dbf264a] the 80 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   f269ccb..dbf264a  master -> master
+**********successful********************************************
+*********Begin the (81) times commit*****************************
