@@ -61606,3 +61606,9 @@ To git@github.com:embpgp/gitfub.git
    d06aff9..143bad2  master -> master
 **********successful********************************************
 *********Begin the (22) times commit*****************************
+[master 6e92cdc] the 22 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   143bad2..6e92cdc  master -> master
+**********successful********************************************
+*********Begin the (23) times commit*****************************
