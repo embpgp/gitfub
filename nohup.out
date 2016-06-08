@@ -69004,3 +69004,9 @@ To git@github.com:embpgp/gitfub.git
    93cfda0..28cb439  master -> master
 **********successful********************************************
 *********Begin the (231) times commit*****************************
+[master 805dac0] the 231 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   28cb439..805dac0  master -> master
+**********successful********************************************
+*********Begin the (232) times commit*****************************
