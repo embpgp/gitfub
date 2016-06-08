@@ -78031,3 +78031,9 @@ To git@github.com:embpgp/gitfub.git
    0f3373f..545314d  master -> master
 **********successful********************************************
 *********Begin the (711) times commit*****************************
+[master 939c774] the 711 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   545314d..939c774  master -> master
+**********successful********************************************
+*********Begin the (712) times commit*****************************
