@@ -80107,3 +80107,9 @@ To git@github.com:embpgp/gitfub.git
    debbe91..3c56bac  master -> master
 **********successful********************************************
 *********Begin the (33) times commit*****************************
+[master 01e4b88] the 33 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   3c56bac..01e4b88  master -> master
+**********successful********************************************
+*********Begin the (34) times commit*****************************
