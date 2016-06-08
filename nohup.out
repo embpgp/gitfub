@@ -80113,3 +80113,9 @@ To git@github.com:embpgp/gitfub.git
    3c56bac..01e4b88  master -> master
 **********successful********************************************
 *********Begin the (34) times commit*****************************
+[master acd420b] the 34 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   01e4b88..acd420b  master -> master
+**********successful********************************************
+*********Begin the (35) times commit*****************************
