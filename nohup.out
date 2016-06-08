@@ -61630,3 +61630,9 @@ To git@github.com:embpgp/gitfub.git
    f48cd63..acca89b  master -> master
 **********successful********************************************
 *********Begin the (26) times commit*****************************
+[master 66d8fa9] the 26 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   acca89b..66d8fa9  master -> master
+**********successful********************************************
+*********Begin the (27) times commit*****************************
