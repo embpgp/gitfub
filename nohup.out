@@ -83365,3 +83365,9 @@ To git@github.com:embpgp/gitfub.git
    6b534f0..deb296a  master -> master
 **********successful********************************************
 *********Begin the (576) times commit*****************************
+[master bef7522] the 576 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   deb296a..bef7522  master -> master
+**********successful********************************************
+*********Begin the (577) times commit*****************************
