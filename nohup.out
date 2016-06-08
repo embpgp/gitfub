@@ -77605,3 +77605,9 @@ To git@github.com:embpgp/gitfub.git
    22ce955..dbcaae5  master -> master
 **********successful********************************************
 *********Begin the (640) times commit*****************************
+[master 5440637] the 640 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   dbcaae5..5440637  master -> master
+**********successful********************************************
+*********Begin the (641) times commit*****************************
