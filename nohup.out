@@ -55891,3 +55891,9 @@ To git@github.com:embpgp/gitfub.git
    e796682..cfb2679  master -> master
 **********successful********************************************
 *********Begin the (94) times commit*****************************
+[master 3097737] the 94 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   cfb2679..3097737  master -> master
+**********successful********************************************
+*********Begin the (95) times commit*****************************
