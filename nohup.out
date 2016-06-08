@@ -66100,3 +66100,9 @@ To git@github.com:embpgp/gitfub.git
    439c98a..dbdd842  master -> master
 **********successful********************************************
 *********Begin the (771) times commit*****************************
+[master 60dd1bf] the 771 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   dbdd842..60dd1bf  master -> master
+**********successful********************************************
+*********Begin the (772) times commit*****************************
