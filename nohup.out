@@ -80077,3 +80077,9 @@ To git@github.com:embpgp/gitfub.git
    7f452ce..40090d2  master -> master
 **********successful********************************************
 *********Begin the (28) times commit*****************************
+[master 9a75e7f] the 28 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   40090d2..9a75e7f  master -> master
+**********successful********************************************
+*********Begin the (29) times commit*****************************
