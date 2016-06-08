@@ -84745,3 +84745,9 @@ To git@github.com:embpgp/gitfub.git
    e1452c3..1cf312c  master -> master
 **********successful********************************************
 *********Begin the (806) times commit*****************************
+[master 57f43b2] the 806 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   1cf312c..57f43b2  master -> master
+**********successful********************************************
+*********Begin the (807) times commit*****************************
