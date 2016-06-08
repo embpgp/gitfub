@@ -56167,3 +56167,9 @@ To git@github.com:embpgp/gitfub.git
    20a1814..b9bac07  master -> master
 **********successful********************************************
 *********Begin the (140) times commit*****************************
+[master 7bc6b41] the 140 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   b9bac07..7bc6b41  master -> master
+**********successful********************************************
+*********Begin the (141) times commit*****************************
