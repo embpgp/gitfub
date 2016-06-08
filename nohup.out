@@ -55333,3 +55333,9 @@ To git@github.com:embpgp/gitfub.git
    d15dcf8..1921f42  master -> master
 **********successful********************************************
 *********Begin the (1) times commit*****************************
+[master 6107456] the 1 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   1921f42..6107456  master -> master
+**********successful********************************************
+*********Begin the (2) times commit*****************************
