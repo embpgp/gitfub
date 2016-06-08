@@ -60121,3 +60121,9 @@ To git@github.com:embpgp/gitfub.git
    d1eede4..eb3121e  master -> master
 **********successful********************************************
 *********Begin the (799) times commit*****************************
+[master 2b06093] the 799 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   eb3121e..2b06093  master -> master
+**********successful********************************************
+*********Begin the (800) times commit*****************************
