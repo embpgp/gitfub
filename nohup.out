@@ -59449,3 +59449,9 @@ To git@github.com:embpgp/gitfub.git
    dcfac71..0c460d2  master -> master
 **********successful********************************************
 *********Begin the (687) times commit*****************************
+[master 8887d2a] the 687 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   0c460d2..8887d2a  master -> master
+**********successful********************************************
+*********Begin the (688) times commit*****************************
