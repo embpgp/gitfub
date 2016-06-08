@@ -60565,3 +60565,9 @@ To git@github.com:embpgp/gitfub.git
    ef084d5..adb5513  master -> master
 **********successful********************************************
 *********Begin the (873) times commit*****************************
+[master 4d0070b] the 873 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   adb5513..4d0070b  master -> master
+**********successful********************************************
+*********Begin the (874) times commit*****************************
