@@ -64906,3 +64906,9 @@ To git@github.com:embpgp/gitfub.git
    800b002..cdb3a7d  master -> master
 **********successful********************************************
 *********Begin the (572) times commit*****************************
+[master bebf394] the 572 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   cdb3a7d..bebf394  master -> master
+**********successful********************************************
+*********Begin the (573) times commit*****************************
