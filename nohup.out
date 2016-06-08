@@ -61330,3 +61330,9 @@ To git@github.com:embpgp/gitfub.git
    3786be7..52ea275  master -> master
 **********successful********************************************
 *********Begin the (1000) times commit*****************************
+[master e0ca587] the 1000 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   52ea275..e0ca587  master -> master
+**********successful********************************************
+*********Begin the (1001) times commit*****************************
