@@ -55423,3 +55423,9 @@ To git@github.com:embpgp/gitfub.git
    31b3fcc..3237fad  master -> master
 **********successful********************************************
 *********Begin the (16) times commit*****************************
+[master f0a8c50] the 16 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   3237fad..f0a8c50  master -> master
+**********successful********************************************
+*********Begin the (17) times commit*****************************
