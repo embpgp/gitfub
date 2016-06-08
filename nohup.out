@@ -80215,3 +80215,9 @@ To git@github.com:embpgp/gitfub.git
    e7a2d72..0dcafea  master -> master
 **********successful********************************************
 *********Begin the (51) times commit*****************************
+[master 8436cf2] the 51 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   0dcafea..8436cf2  master -> master
+**********successful********************************************
+*********Begin the (52) times commit*****************************
