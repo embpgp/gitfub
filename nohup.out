@@ -85750,3 +85750,9 @@ To git@github.com:embpgp/gitfub.git
    bb48474..acb2472  master -> master
 **********successful********************************************
 *********Begin the (972) times commit*****************************
+[master f87f105] the 972 times commit
+ 2 files changed, 7 insertions(+), 1 deletion(-)
+To git@github.com:embpgp/gitfub.git
+   acb2472..f87f105  master -> master
+**********successful********************************************
+*********Begin the (973) times commit*****************************
